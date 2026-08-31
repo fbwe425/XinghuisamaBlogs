@@ -34,14 +34,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: XHBlogs/package-lock.json
 
       # ── 3. 覆写 next.config.ts 为静态导出模式 ───────────────
       #    · output: 'export'  → 纯静态 HTML/CSS/JS
       #    · basePath          → GitHub Pages 子路径（仓库名）
-      #    · API routes 在静态模式下会被跳过（ignoreBuildErrors 已设置）
+      #    · API routes 在静态模式下不可用，构建前会删除它们
       - name: Patch next.config.ts for static export
         run: |
           cat > next.config.ts << 'CONF'
@@ -57,30 +57,33 @@ jobs:
             typescript: {
               ignoreBuildErrors: true,
             },
-            eslint: {
-              ignoreDuringBuilds: true,
-            },
           };
 
           export default nextConfig;
           CONF
 
-      # ── 4. 安装依赖 ──────────────────────────────────────────
+      # ── 4. 移除 API routes（静态导出不支持运行时 API）───────
+      #    这些 API 依赖服务端环境（Gemini/天气/OAuth/网易云）
+      #    在 GitHub Pages 纯静态环境下本来就无法运行
+      - name: Remove server-side API routes for static export
+        run: |
+          rm -rf app/api
+
+      # ── 5. 安装依赖 ──────────────────────────────────────────
       - name: Install dependencies
         run: npm ci
 
-      # ── 5. 构建静态站点 ──────────────────────────────────────
+      # ── 6. 构建静态站点 ──────────────────────────────────────
       - name: Build
         run: npm run build
         env:
-          # 静态导出时 API routes 需要这个标志跳过动态路由检查
-          NEXT_PRIVATE_SKIP_MIDDLEWARE: 'true'
+          NEXT_TELEMETRY_DISABLED: '1'
 
-      # ── 6. 添加 .nojekyll（防止 Jekyll 处理 _next 目录）─────
+      # ── 7. 添加 .nojekyll（防止 Jekyll 处理 _next 目录）─────
       - name: Add .nojekyll
         run: touch out/.nojekyll
 
-      # ── 7. 部署到 gh-pages 分支 ──────────────────────────────
+      # ── 8. 部署到 gh-pages 分支 ──────────────────────────────
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
