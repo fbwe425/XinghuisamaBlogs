@@ -1,0 +1,93 @@
+name: Deploy XHBlogs to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'XHBlogs/**'
+  workflow_dispatch:          # 允许手动触发
+
+permissions:
+  contents: write             # 写 gh-pages 分支
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: XHBlogs
+
+    steps:
+      # ── 1. 拉取代码 ──────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 2. 安装 Node.js ──────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: XHBlogs/package-lock.json
+
+      # ── 3. 覆写 next.config.ts 为静态导出模式 ───────────────
+      #    · output: 'export'  → 纯静态 HTML/CSS/JS
+      #    · basePath          → GitHub Pages 子路径（仓库名）
+      #    · API routes 在静态模式下会被跳过（ignoreBuildErrors 已设置）
+      - name: Patch next.config.ts for static export
+        run: |
+          cat > next.config.ts << 'CONF'
+          import type { NextConfig } from "next";
+
+          const nextConfig: NextConfig = {
+            output: 'export',
+            basePath: '/XinghuisamaBlogs',
+            trailingSlash: true,
+            images: {
+              unoptimized: true,
+            },
+            typescript: {
+              ignoreBuildErrors: true,
+            },
+            eslint: {
+              ignoreDuringBuilds: true,
+            },
+          };
+
+          export default nextConfig;
+          CONF
+
+      # ── 4. 安装依赖 ──────────────────────────────────────────
+      - name: Install dependencies
+        run: npm ci
+
+      # ── 5. 构建静态站点 ──────────────────────────────────────
+      - name: Build
+        run: npm run build
+        env:
+          # 静态导出时 API routes 需要这个标志跳过动态路由检查
+          NEXT_PRIVATE_SKIP_MIDDLEWARE: 'true'
+
+      # ── 6. 添加 .nojekyll（防止 Jekyll 处理 _next 目录）─────
+      - name: Add .nojekyll
+        run: touch out/.nojekyll
+
+      # ── 7. 部署到 gh-pages 分支 ──────────────────────────────
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./XHBlogs/out
+          publish_branch: gh-pages
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'chore: deploy to GitHub Pages [skip ci]'
