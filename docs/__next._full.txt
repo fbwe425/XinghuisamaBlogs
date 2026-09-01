@@ -10,11 +10,11 @@
 :HL["/_next/static/chunks/145o.lsi86g0w.css","style"]
 :HL["/_next/static/chunks/066jf0nk75nic.css","style"]
 :HL["/_next/static/chunks/0~ydk.tni6snc.css","style"]
-:HL["/_next/static/chunks/0bdu06~tkerfr.css","style"]
+:HL["/_next/static/chunks/0m3bb3mro4k2u.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f112ed7f0b91582f-s.p.0xqqmnf1a3x8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/0bdu06~tkerfr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0kxt0f93sv6wh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0kj_1ivkk~zyy.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[false,["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1a1a2e)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L9","$La"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}]}]]}]]}],{"children":["$L11",{},null,false,null]},null,false,null],"$L12",false]],"m":"$undefined","G":["$13",["$L14","$L15","$L16","$L17"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_T02VM2-DAAE_XtmGhDi4"}
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/0m3bb3mro4k2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0kxt0f93sv6wh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0kj_1ivkk~zyy.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[false,["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1a1a2e)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L9","$La"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}]}]]}]]}],{"children":["$L11",{},null,false,null]},null,false,null],"$L12",false]],"m":"$undefined","G":["$13",["$L14","$L15","$L16","$L17"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"f8N0Krz-hlkRz9QkDEyGx"}
 18:I[94909,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
 19:I[43173,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
 1a:I[38197,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
@@ -419,105 +419,56 @@ XHBLogs 还有诸多隐藏的细节功能，期待极客朋友们在实际使用
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 > 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。允许免费学习、分享和二次修改后发布（二次开源发布需提及原作者），但**严禁用于任何商业用途**。
-22:Te17,
+22:T82b,
 # 🚀 fbwe425.github.io
 
-> ☁️ Personal homepage — **serverless developer portfolio**
+☁️ **个人主页 · 无服务器开发者作品集**
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0e1a)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0e1a)](https://fbwe425.github.io/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
-My personal portfolio site, built with **zero frameworks** — just clean HTML, CSS and a sprinkle of JavaScript. Deployed on **GitHub Pages** for free. ⚡
+这是我的个人开发者主页，不依赖任何前端框架，使用简洁的 HTML、CSS 和少量 JavaScript 构建，并通过 GitHub Pages 免费部署。
 
-**🔗 Live: https://fbwe425.github.io/**
-
----
-
-## ✨ Features
-
-- 🌌 **Animated starfield** background (pure Canvas, no dependencies)
-- 🎨 **Dark theme** with Cloudflare-orange & edge-computing-teal accents
-- 📱 **Fully responsive** — works great on mobile, tablet and desktop
-- 🧭 **Smooth-scroll** single-page navigation
-- 🛠️ **Tech-stack showcase** — Cloudflare Workers, R2, Vercel, Hono, Next.js, Astro, Vue.js, Hugo, D1/KV, Upstash, Neon, TypeScript, Rust
-- 💬 **Contact section** — GitHub / Twitter / Email, one click away
-- 🌐 **Bilingual** — EN / 中文 toggle with localStorage persistence
-- 🚀 **Deploys itself** — push to `main` and GitHub Pages rebuilds automatically
+🔗 **在线地址：** <https://fbwe425.github.io/>
 
 ---
 
-## 📂 Featured Projects
+## ✨ 页面特点
 
-This site showcases my serverless-focused projects:
+- 🌌 动态星空背景，使用原生 Canvas 实现，无额外依赖
+- 🎨 深色主题，搭配 Cloudflare 橙色与边缘计算青色点缀
+- 📱 完整响应式布局，适配手机、平板和桌面端
+- 🧭 流畅的单页滚动导航
+- 🛠️ 展示 Cloudflare Workers、R2、Vercel、Hono、Next.js、Astro、Vue.js、Hugo、D1/KV、Upstash、Neon、TypeScript 和 Rust 等技术
+- 💬 提供 GitHub、Twitter 和邮箱联系方式
+- 🌐 支持中英文切换，并使用 localStorage 保存语言选择
+- 🚀 推送到 main 分支后自动通过 GitHub Actions 构建和发布
 
-| Project | Description |
-|---------|-------------|
-| **[blog-cms](https://github.com/fbwe425/blog-cms)** | Hugo + Decap CMS blog with admin dashboard, dark/light theme, full-text search |
-| **[AueXUE](https://github.com/fbwe425/AueXUE)** | Dynamic blog on Cloudflare R2 + D1 with Obsidian plugin |
+## 🧰 技术栈
 
----
+- HTML5
+- CSS3
+- 原生 JavaScript
+- Canvas API
+- GitHub Pages
+- GitHub Actions
 
-## 🗂️ Project structure
+## 📂 本项目中的其他项目
 
-```
-fbwe425.github.io/
-├── index.html   # The entire site — content + styles + animation
-├── README.md    # You are here
-└── LICENSE      # MIT License
-```
+- [blog-cms](https://github.com/fbwe425/blog-cms) —— Hugo 与 Decap CMS 博客系统
+- [AueXUE](https://github.com/fbwe425/AueXUE) —— 基于 Cloudflare 的动态博客
+- [fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io) —— 当前个人博客主页
 
-The whole site lives in a single `index.html` file (styles are embedded via `<style>`, the starfield via inline `<script>`). That's the beauty of it — **no build step, no dependencies, no node_modules**. 🙌
+## 📮 联系方式
 
----
+- GitHub：<https://github.com/fbwe425>
+- 邮箱：<fbwe425@fnosmail.com>
 
-## 🛠️ How to run locally
+## 📄 许可证
 
-```bash
-# Option 1: Python
-python3 -m http.server 8000
-# → open http://localhost:8000
-
-# Option 2: Node.js
-npx serve .
-```
-
-Or just double-click `index.html` — it's fully static, no server needed.
-
----
-
-## ✏️ Customize it
-
-| What you want to change | Where |
-|------------------------|-------|
-| **Your name / title** | `index.html` — `<h1>` in the hero section |
-| **Bio / subtitle** | `index.html` — `.subtitle` |
-| **Tech stack items** | `index.html` — `.stack-grid` block |
-| **Projects section** | `index.html` — `#projects` section |
-| **Colors** | `index.html` — CSS variables in `:root` (`--accent`, `--accent2`, ...) |
-| **Contact links** | `index.html` — `#contact` section |
-| **Starfield density** | `index.html` — `length: 160` in the script |
-
-After editing, commit & push to `main` — GitHub Pages picks it up automatically.
-
----
-
-## 🌐 Deployment
-
-This repo is served via [GitHub Pages](https://pages.github.com/) from the `main` branch at the repo root.
-
-Since the repo is named `fbwe425.github.io`, the site is automatically available at **https://fbwe425.github.io/** — no extra configuration needed.
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — use it, tweak it, make it yours. 🎉
-
----
-
-*Built with ❤️ and the Cloudflare ☁️ spirit — "The best server is the one you never have to manage."*
+本项目使用仓库中的 [LICENSE](https://github.com/fbwe425/fbwe425.github.io/blob/main/LICENSE) 文件所声明的许可证。
 23:T1d6d,
 # 📝 Blog CMS — Hugo + Decap CMS 博客系统
 
@@ -1097,12 +1048,12 @@ Cloudflare Dashboard → Pages 项目 → **Custom domains** → 添加 `dail
 - `site.config.ts` 中的 `url`
 - `wrangler.toml` 中 `SITE_URL`（或 Dashboard 环境变量）
 
-11:["$","$1","c",{"children":[["$","$L1d",null,{"children":["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L1e",null,{}],["$","$L1f",null,{"children":["$","div",null,{"className":"w-full max-w-6xl mx-auto mt-24 sm:mt-28 px-4 sm:px-6 lg:px-10 relative z-10","children":[["$","$L20",null,{"posts":[{"slug":"xinghuisamablogs","title":"XinghuisamaBlogs — Glassmorphism Next.js Blog","date":"2026-08-31 12:00:00","description":"A Next.js 16 glassmorphism blog, forked and customized. Deployed to GitHub Pages via GitHub Actions.","cover":"https://opengraph.githubassets.com/1/fbwe425/XinghuisamaBlogs","tags":["Next.js","TypeScript","GitHub Pages","GitHub Actions"],"content":"$21","formattedDate":"2026.08.31 12:00"},{"slug":"homepage","title":"fbwe425.github.io — Personal Developer Homepage","date":"2026-08-31 09:00:00","description":"Personal portfolio site with animated starfield background. Zero frameworks — just HTML, CSS, JavaScript.","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425.github.io","tags":["HTML","CSS","GitHub Pages","Portfolio"],"content":"$22","formattedDate":"2026.08.31 09:00"},{"slug":"blog-cms","title":"blog-cms — Hugo + Decap CMS Blog System","date":"2026-08-28 10:00:00","description":"A static blog CMS with admin dashboard, deployable to Cloudflare Pages, Vercel or GitHub Pages.","cover":"https://opengraph.githubassets.com/1/fbwe425/blog-cms","tags":["Hugo","CMS","Cloudflare Pages","JavaScript"],"content":"$23","formattedDate":"2026.08.28 10:00"},{"slug":"github-profile","title":"GitHub 个人主页介绍","date":"2026-08-28 08:00:00","description":"关于我、我的技术方向，以及正在构建的项目。","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425","tags":["GitHub","个人主页","关于我"],"content":"$24","formattedDate":"2026.08.28 08:00"},{"slug":"auexue","title":"AueXUE — Dynamic Blog on Cloudflare","date":"2026-08-27 15:00:00","description":"A fully dynamic blog built entirely on Cloudflare — Workers, D1 database, R2 storage. With Obsidian plugin support.","cover":"https://opengraph.githubassets.com/1/fbwe425/AueXUE","tags":["Vue","Cloudflare Workers","D1","R2"],"content":"$25","formattedDate":"2026.08.27 15:00"}]}],"$L26"]}]}]]}]}],["$L27"],"$L28"]}]
+11:["$","$1","c",{"children":[["$","$L1d",null,{"children":["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L1e",null,{}],["$","$L1f",null,{"children":["$","div",null,{"className":"w-full max-w-6xl mx-auto mt-24 sm:mt-28 px-4 sm:px-6 lg:px-10 relative z-10","children":[["$","$L20",null,{"posts":[{"slug":"xinghuisamablogs","title":"XinghuisamaBlogs — Glassmorphism Next.js Blog","date":"2026-08-31 12:00:00","description":"A Next.js 16 glassmorphism blog, forked and customized. Deployed to GitHub Pages via GitHub Actions.","cover":"https://opengraph.githubassets.com/1/fbwe425/XinghuisamaBlogs","tags":["Next.js","TypeScript","GitHub Pages","GitHub Actions"],"content":"$21","formattedDate":"2026.08.31 12:00"},{"slug":"homepage","title":"fbwe425.github.io — 个人开发者主页","date":"2026-08-31 09:00:00","description":"我的个人开发者主页：轻量、快速，并使用 GitHub Pages 免费部署。","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425.github.io","tags":["HTML","CSS","GitHub Pages","个人主页"],"content":"$22","formattedDate":"2026.08.31 09:00"},{"slug":"blog-cms","title":"blog-cms — Hugo + Decap CMS Blog System","date":"2026-08-28 10:00:00","description":"A static blog CMS with admin dashboard, deployable to Cloudflare Pages, Vercel or GitHub Pages.","cover":"https://opengraph.githubassets.com/1/fbwe425/blog-cms","tags":["Hugo","CMS","Cloudflare Pages","JavaScript"],"content":"$23","formattedDate":"2026.08.28 10:00"},{"slug":"github-profile","title":"GitHub 个人主页介绍","date":"2026-08-28 08:00:00","description":"关于我、我的技术方向，以及正在构建的项目。","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425","tags":["GitHub","个人主页","关于我"],"content":"$24","formattedDate":"2026.08.28 08:00"},{"slug":"auexue","title":"AueXUE — Dynamic Blog on Cloudflare","date":"2026-08-27 15:00:00","description":"A fully dynamic blog built entirely on Cloudflare — Workers, D1 database, R2 storage. With Obsidian plugin support.","cover":"https://opengraph.githubassets.com/1/fbwe425/AueXUE","tags":["Vue","Cloudflare Workers","D1","R2"],"content":"$25","formattedDate":"2026.08.27 15:00"}]}],"$L26"]}]}]]}]}],["$L27"],"$L28"]}]
 12:["$","$1","h",{"children":[null,["$","$L29",null,{"children":"$L2a"}],["$","div",null,{"hidden":true,"children":["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.Metadata","children":"$L2d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 14:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 15:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 16:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-17:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/0bdu06~tkerfr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/0m3bb3mro4k2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 2e:I[55183,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0w6728vwcd_22.js"],"default"]
 2f:I[5562,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0w6728vwcd_22.js"],"default"]
 30:I[39470,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0w6728vwcd_22.js"],"default"]
