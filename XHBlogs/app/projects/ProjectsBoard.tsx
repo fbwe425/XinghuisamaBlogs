@@ -30,10 +30,10 @@ export default function ProjectsBoard() {
         </div>
         <div className="text-center md:text-left w-full">
           <h1 className="text-4xl font-black text-slate-900 dark:text-white mb-4 tracking-widest drop-shadow-sm uppercase">
-            Projects Matrix
+            项目矩阵
           </h1>
           <p className="text-slate-600 dark:text-slate-400 font-serif">
-            Open source projects & code repositories.
+            开源项目与代码仓库展示
           </p>
         </div>
       </div>
