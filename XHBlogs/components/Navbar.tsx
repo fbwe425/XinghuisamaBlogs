@@ -10,7 +10,19 @@ export default function Navbar() {
   const [showNav, setShowNav] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [language, setLanguage] = useState<'zh' | 'en'>('zh');
   const pathname = usePathname();
+
+  useEffect(() => {
+    const savedLanguage = window.localStorage.getItem('blog-language');
+    if (savedLanguage === 'en' || savedLanguage === 'zh') setLanguage(savedLanguage);
+  }, []);
+
+  const toggleLanguage = () => {
+    const nextLanguage = language === 'zh' ? 'en' : 'zh';
+    setLanguage(nextLanguage);
+    window.localStorage.setItem('blog-language', nextLanguage);
+  };
 
   // --- 🌟 物理引擎：菜单转动逻辑 ---
   const wheelRef = useRef<HTMLDivElement>(null);
@@ -69,16 +81,16 @@ export default function Navbar() {
   }, [lastScrollY]);
 
   const navLinks = [
-    { name: '首页', href: '/' },
-    { name: '项目', href: '/projects' },
-    { name: '归档', href: '/timeline' },
-    { name: '照片墙', href: '/photowall' },
-    { name: '音乐', href: '/music' },
-    { name: '灵境', href: '/tree' },
-    { name: '说说', href: '/moments' },
-    { name: '杂谈', href: '/chatter' },
-    { name: '友链', href: '/friends' },
-    { name: '关于', href: '/about' },
+    { name: language === 'zh' ? '首页' : 'Home', href: '/' },
+    { name: language === 'zh' ? '项目' : 'Projects', href: '/projects' },
+    { name: language === 'zh' ? '归档' : 'Archive', href: '/timeline' },
+    { name: language === 'zh' ? '照片墙' : 'Photos', href: '/photowall' },
+    { name: language === 'zh' ? '音乐' : 'Music', href: '/music' },
+    { name: language === 'zh' ? '灵境' : 'Lab', href: '/tree' },
+    { name: language === 'zh' ? '说说' : 'Moments', href: '/moments' },
+    { name: language === 'zh' ? '杂谈' : 'Notes', href: '/chatter' },
+    { name: language === 'zh' ? '友链' : 'Links', href: '/friends' },
+    { name: language === 'zh' ? '关于' : 'About', href: '/about' },
   ];
 
   // 🌟 核心：过滤掉“灵境”，专供手机端使用，保证圆盘自动重新均匀排布
@@ -106,6 +118,14 @@ export default function Navbar() {
               );
             })}
           </nav>
+          <button
+            type="button"
+            onClick={toggleLanguage}
+            aria-label={language === 'zh' ? 'Switch to English' : '切换到中文'}
+            className="ml-4 rounded-full border border-indigo-300/40 bg-indigo-500/10 px-3 py-1 text-xs font-bold text-indigo-200 transition hover:bg-indigo-500/30"
+          >
+            {language === 'zh' ? 'EN' : '中'}
+          </button>
         </div>
       </header>
 
@@ -159,6 +179,9 @@ export default function Navbar() {
                   <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-20 h-20 rounded-full bg-slate-100 dark:bg-slate-700 border-4 border-slate-300 dark:border-slate-500 flex items-center justify-center shadow-inner z-10">
                     <button onClick={() => setIsMobileMenuOpen(false)} className="w-12 h-12 rounded-full bg-indigo-500 flex items-center justify-center text-white font-black shadow-lg hover:bg-red-500 hover:rotate-90 transition-all duration-300 active:scale-95">
                       ✕
+                    </button>
+                    <button onClick={toggleLanguage} className="absolute -bottom-12 rounded-full border border-white/30 bg-slate-800/90 px-3 py-1 text-xs font-bold text-white">
+                      {language === 'zh' ? 'EN' : '中'}
                     </button>
                   </div>
 
