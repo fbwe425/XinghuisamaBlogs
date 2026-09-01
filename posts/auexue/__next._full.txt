@@ -1,0 +1,505 @@
+1:"$Sreact.fragment"
+2:I[80492,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"ThemeProvider"]
+3:I[61452,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+4:I[79674,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"MusicProvider"]
+5:I[94798,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+6:I[63571,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+7:I[39756,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+8:I[37457,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+15:I[68027,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default",1]
+:HL["/XinghuisamaBlogs/_next/static/chunks/145o.lsi86g0w.css","style"]
+:HL["/XinghuisamaBlogs/_next/static/chunks/066jf0nk75nic.css","style"]
+:HL["/XinghuisamaBlogs/_next/static/chunks/0~ydk.tni6snc.css","style"]
+:HL["/XinghuisamaBlogs/_next/static/chunks/0bdu06~tkerfr.css","style"]
+:HL["/XinghuisamaBlogs/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/XinghuisamaBlogs/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/XinghuisamaBlogs/_next/static/media/f112ed7f0b91582f-s.p.0xqqmnf1a3x8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/XinghuisamaBlogs/_next/static/chunks/15cahw4d8-wp1.css","style"]
+:HL["/XinghuisamaBlogs/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
+0:{"P":null,"c":["","posts","auexue",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","auexue","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/0bdu06~tkerfr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[false,["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1a1a2e)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":"$L9"}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$La","$Lb","$Lc","$Ld"]}],"$Le"]}],"$Lf"]}]}]]}]]}],{"children":["$L10",{"children":["$L11",{"children":["$L12",{},null,false,null]},null,false,"$@13"]},null,false,"$@13"]},null,false,null],"$L14",false]],"m":"$undefined","G":["$15",["$L16","$L17","$L18","$L19"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"V6nPyNoNRgCCw_dhBI3Gx"}
+1a:I[94909,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1b:I[43173,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1c:I[38197,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1d:I[60567,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1e:I[92471,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+20:I[97367,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+24:I[97367,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"ViewportBoundary"]
+26:I[97367,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"MetadataBoundary"]
+9:["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]
+a:["$","div",null,{"className":"hidden md:block","children":["$","$L1a",null,{}]}]
+b:["$","div",null,{"className":"hidden md:block","children":["$","$L1b",null,{}]}]
+c:["$","div",null,{"className":"md:hidden block","children":["$","$L1c",null,{}]}]
+d:["$","div",null,{"className":"hidden md:block","children":["$","$L1d",null,{}]}]
+e:["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              @keyframes gradientMove { \n                0% { background-position: 0% 50%; } \n                50% { background-position: 100% 50%; } \n                100% { background-position: 0% 50%; } \n              }\n            "}}]
+f:["$","div",null,{"className":"hidden md:block","children":["$","$L1e",null,{}]}]
+10:["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L1f",[["$","link","0",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/15cahw4d8-wp1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js","async":true,"nonce":"$undefined"}]],["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}]
+23:[]
+13:"$W23"
+14:["$","$1","h",{"children":[null,["$","$L24",null,{"children":"$L25"}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":"$L27"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","link","0",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:["$","link","1",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+18:["$","link","2",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:["$","link","3",{"rel":"stylesheet","href":"/XinghuisamaBlogs/_next/static/chunks/0bdu06~tkerfr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+28:I[62319,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+29:I[66357,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+2a:I[1509,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+:HL["https://opengraph.githubassets.com/1/fbwe425/AueXUE","image"]
+2b:T1dfc,
+                  .prose h1 { font-size: 1.8rem !important; font-weight: 900 !important; margin-bottom: 1.2rem !important; margin-top: 2rem !important; line-height: 1.3 !important; color: inherit !important; }
+                  .prose h2 { font-size: 1.5rem !important; font-weight: 800 !important; margin-bottom: 1rem !important; margin-top: 1.5rem !important; color: inherit !important; }
+                  .prose h3 { font-size: 1.2rem !important; font-weight: 700 !important; margin-bottom: 0.8rem !important; color: inherit !important; }
+                  .prose p { font-size: 0.95rem !important; line-height: 1.75 !important; color: inherit !important; }
+                  
+                  .prose a { color: #6366f1 !important; text-decoration: none !important; font-weight: 600 !important; border-bottom: 1px dashed #6366f1 !important; transition: all 0.3s ease !important; }
+                  .prose a:hover { color: #4f46e5 !important; border-bottom-style: solid !important; background-color: rgba(99, 102, 241, 0.1) !important; padding: 0 0.2rem !important; border-radius: 0.2rem !important; }
+                  .dark .prose a { color: #818cf8 !important; border-bottom-color: #818cf8 !important; }
+                  .dark .prose a:hover { color: #a5b4fc !important; background-color: rgba(129, 140, 248, 0.15) !important; }
+
+                  .prose ul { list-style-type: disc !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+                  .prose ol { list-style-type: decimal !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+                  .prose li { display: list-item !important; margin-bottom: 0.5rem !important; }
+                  
+                  .prose ul ul, .prose ol ul { list-style-type: circle !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+                  .prose ol ol, .prose ul ol { list-style-type: lower-alpha !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+                  
+                  .prose del { text-decoration-color: inherit !important; opacity: 0.6; }
+                  
+                  /* 🌟 引用块专属果冻极客风样式补丁 */
+                  .prose blockquote {
+                    border-left: 4px solid #6366f1 !important;
+                    background-color: rgba(99, 102, 241, 0.05) !important;
+                    padding: 1rem 1.5rem !important;
+                    margin: 1.5rem 0 !important;
+                    border-radius: 0 1.25rem 1.25rem 0 !important;
+                    font-style: italic !important;
+                    color: #64748b !important;
+                  }
+                  .prose blockquote p {
+                    margin: 0 !important; 
+                    color: inherit !important;
+                  }
+                  .dark .prose blockquote {
+                    border-left-color: #818cf8 !important;
+                    background-color: rgba(129, 140, 248, 0.1) !important;
+                    color: #94a3b8 !important;
+                  }
+                  
+                  .prose pre {
+                    background-color: #282c34 !important; color: #abb2bf !important;
+                    padding: 1rem !important; border-radius: 0.75rem !important;
+                    overflow-x: auto !important; box-shadow: inset 0 0 10px rgba(0,0,0,0.3) !important;
+                    margin-top: 1rem !important; margin-bottom: 1rem !important;
+                  }
+                  
+                  .prose pre code, .prose p code, .prose li code { 
+                    font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, ui-monospace, monospace !important; 
+                    font-variant-ligatures: contextual !important; 
+                  }
+                  .prose pre code { 
+                    background-color: transparent !important; 
+                    padding: 0 !important; 
+                    color: inherit !important; 
+                    font-size: 0.85em !important; 
+                  }
+                  
+                  .prose code::before, .prose code::after { content: none !important; }
+                  .prose p code, .prose li code { background-color: rgba(99, 102, 241, 0.1) !important; color: #6366f1 !important; padding: 0.1rem 0.3rem !important; border-radius: 0.25rem !important; font-weight: 600 !important; font-size: 0.85em !important; }
+                  .dark .prose p code, .dark .prose li code { background-color: rgba(99, 102, 241, 0.2) !important; color: #818cf8 !important; }
+                  .prose img { display: block !important; margin: 1.5rem auto !important; border-radius: 1rem !important; box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important; max-width: 100% !important; height: auto !important; }
+
+                  .prose pre code .hljs-comment, .prose pre code .hljs-quote { color: #5c6370 !important; font-style: italic !important; }
+                  .prose pre code .hljs-doctag, .prose pre code .hljs-keyword, .prose pre code .hljs-formula { color: #c678dd !important; }
+                  .prose pre code .hljs-keyword.type_, .prose pre code .hljs-type { color: #c678dd !important; } 
+                  .prose pre code .hljs-section, .prose pre code .hljs-name, .prose pre code .hljs-selector-tag, .prose pre code .hljs-deletion, .prose pre code .hljs-subst { color: #e06c75 !important; }
+                  .prose pre code .hljs-literal { color: #56b6c2 !important; }
+                  .prose pre code .hljs-string, .prose pre code .hljs-regexp, .prose pre code .hljs-addition, .prose pre code .hljs-attribute, .prose pre code .hljs-meta-string { color: #98c379 !important; }
+                  .prose pre code .hljs-built_in, .prose pre code .hljs-class .hljs-title, .prose pre code .hljs-title.class_ { color: #e6c07b !important; } 
+                  .prose pre code .hljs-attr, .prose pre code .hljs-variable, .prose pre code .hljs-template-variable, .prose pre code .hljs-selector-class, .prose pre code .hljs-selector-attr, .prose pre code .hljs-selector-pseudo, .prose pre code .hljs-number { color: #d19a66 !important; }
+                  .prose pre code .hljs-symbol, .prose pre code .hljs-bullet, .prose pre code .hljs-link, .prose pre code .hljs-meta, .prose pre code .hljs-selector-id, .prose pre code .hljs-title, .prose pre code .hljs-title.function_ { color: #61aeee !important; } 
+
+                  @media (min-width: 768px) {
+                    .prose h1 { font-size: 3rem !important; font-weight: 950 !important; margin-bottom: 2rem !important; margin-top: 3rem !important; line-height: 1.1 !important; }
+                    .prose h2 { font-size: 2.2rem !important; margin-bottom: 1.5rem !important; margin-top: 2rem !important; }
+                    .prose h3 { font-size: 1.5rem !important; margin-bottom: 1rem !important; }
+                    .prose p { font-size: 1.15rem !important; line-height: 1.85 !important; }
+                    
+                    .prose ul, .prose ol { padding-left: 2rem !important; font-size: 1.1rem !important; }
+                    
+                    .prose pre { padding: 1.25rem !important; margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; }
+                    .prose pre code { font-size: 0.9em !important; }
+                    .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
+                    .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
+                  }
+                1f:["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L28",null,{}],["$","$L29",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-6xl mx-auto mt-24 md:mt-28 flex flex-col lg:flex-row gap-6 md:gap-8 relative z-10","children":[["$","article",null,{"className":"flex-1 bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl shadow-2xl border border-white/40 dark:border-white/10 overflow-hidden transition-colors duration-700","children":[["$","div",null,{"className":"w-full aspect-video bg-slate-200 dark:bg-slate-700 relative group","children":["$","img",null,{"src":"https://opengraph.githubassets.com/1/fbwe425/AueXUE","alt":"封面","className":"w-full h-full object-cover opacity-90 transition-transform duration-1000 group-hover:scale-105"}]}],["$","div",null,{"className":"p-5 md:p-12 relative","children":[["$","$L2a",null,{}],["$","header",null,{"className":"mb-6 md:mb-8 border-b border-slate-300/50 dark:border-slate-700 pb-5 md:pb-6 relative","children":[["$","h1",null,{"className":"text-2xl md:text-4xl font-bold text-slate-900 dark:text-white mb-4 tracking-tight transition-colors duration-700 pr-16 md:pr-24 leading-snug","children":"AueXUE — Dynamic Blog on Cloudflare"}],["$","div",null,{"className":"flex flex-wrap items-center gap-2 md:gap-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 md:gap-2 text-indigo-700 dark:text-indigo-400 font-bold bg-white/30 dark:bg-slate-900/50 px-3 md:px-4 py-1.5 md:py-2 rounded-full w-max text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","svg",null,{"className":"w-3 h-3 md:w-4 md:h-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"}]}],"写作时间：","2026-08-27 15:00:00"]}],[["$","div","Vue",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","Vue"]}],["$","div","Cloudflare Workers",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","Cloudflare Workers"]}],["$","div","D1",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","D1"]}],["$","div","R2",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","R2"]}]]]}]]}],["$","div",null,{"className":"relative","children":[["$","style",null,{"children":"$2b"}],"$L2c"]}],"$L2d"]}]]}],"$L2e"]}]}]]}]
+30:I[24170,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+31:I[57592,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+32:I[55581,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+33:I[22016,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],""]
+34:I[60763,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js","/XinghuisamaBlogs/_next/static/chunks/0f11whapg2-z8.js","/XinghuisamaBlogs/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+:HL["https://avatars.githubusercontent.com/u/321728159?v=4","image"]
+2f:T4896,<h3>简介</h3>
+<p><em>AueXUE</em> 是一个基于cloudflare进行托管，使用R2作为储存源，D1作为数据库的现代化动态博客项目，无需每次更改重新部署项目，实时预览你的更改，同时配套专属obsidian插件，方便在obsidian管理和发布文章，配有一键发布文章的功能，在obsidian打开对应文章点击发布即可直接将文档发布到云端并返回分享链接</p>
+<h4>网站预览</h4>
+<p>网站样式预览可以前往 <strong><a href="https://daily.yybb.us">https://daily.yybb.us</a></strong> 该站点是基于hugo重构，ui界面保持一致，如果对这个感兴趣的话，请看 <a href="posts/hugoTheme-aiovtue">Hugo最美主题-aiovtue</a>
+这里也放几张站点的截图方便预览
+<img src="https://r2tc.20030327.xyz/file/%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0/1782137472842_6a3938ff4a893629d992bb61.png" alt="">
+<img src="https://r2tc.20030327.xyz/file/%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0/1780923255231_1780923153704.png" alt="">
+具体还是前往站点亲自体验比较好，下面是站点后台管理的样式，这个无法体验，我多几张
+<img src="https://r2tc.20030327.xyz/file/%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0/NBxHR4aV.png" alt="登陆页面">
+<img src="https://r2tc.20030327.xyz/file/%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0/QlXxCaTn.png" alt="文章页面">
+<img src="https://r2tc.20030327.xyz/file/%E5%8D%9A%E5%AE%A2/%E6%96%87%E7%AB%A0/Uvnt7X7L.png" alt="友链管理"></p>
+<h3>自定义</h3>
+<h4>页面</h4>
+<p>下面是各个页面的自定义部分位置，首先是文章，由于文章储存在云端，但是在部署的时候会进行一次文章迁移，会将本地文章迁移至云端，因此，本地调试时可以加上想写的文章，不过后续更新文章不要使用这种方式，直接在后台管理即可，具体路径是<code>\AueXUE\content\posts</code>文件夹，默认放了两篇文章
+同样的，在<code>\AueXUE\content</code>文件夹内部还有关于页，相册页，友链页以及公告栏等页面的相关配置，修改相关页面头图标题之类的找到对应<code>index.md</code>文件修改即可</p>
+<h4>其他页面</h4>
+<p>部分页面只有静态文件，没有放在云端，后续也只需要修改一次，上面那些页面基本都是能在后台管理的，本地改不改都行，只是首次会进行同步，但是这部分的页面并不是，只是一次性的，静态文件，不支持后台修改，但是基本只需要修改一次，使用没有集成到后台，具体路径是<code>\AueXUE\pages</code>文件夹下各文件夹，包括分类，标签，等页面，注意，后缀为<code>.vue</code>的文件不要修改，只需要找到相应的<code>index.md</code>文件修改即可</p>
+<h4>站点信息</h4>
+<p>站点信息分布在两个地方，涵盖两个文件<code>site.config.ts</code>和<code>valaxy.config.ts</code>
+<code>site.config.ts</code>文件包含内容如下：</p>
+<blockquote>
+<p>站点地址
+站点标题
+站点头像
+站点图标
+社交图标
+打赏信息</p>
+</blockquote>
+<p><code>valaxy.config.ts</code>文件包含内容如下：</p>
+<blockquote>
+<p>主题色
+导航页视频链接
+默认文章封面
+首页头图文字、背景
+顶栏信息
+侧边栏信息
+页脚计时起始时间
+页脚备案信息
+归档页图表起始时间
+评论配置（twikoo）</p>
+</blockquote>
+<p>大部分应该都写上去了，可能会漏掉一些~</p>
+<h4>友链公告</h4>
+<p>这部分比较特殊，被写死了，所以没再配置文件里面，具体修改位置在<code>\AueXUE\components\FriendLinkNotice.vue</code>文件内，具体位置在</p>
+<pre><code class="hljs language-html">          本站友链信息如下：
+        <span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">ul</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"friend-link-site-info__list"</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span>></span>
+            站点名称：<span class="hljs-tag">&#x3C;<span class="hljs-name">span</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"friend-link-highlight"</span>></span>AIOVTUE-雪<span class="hljs-tag">&#x3C;/<span class="hljs-name">span</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span>></span>
+            站点链接：<span class="hljs-tag">&#x3C;<span class="hljs-name">span</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"friend-link-highlight"</span>></span>https://live.yybb.us<span class="hljs-tag">&#x3C;/<span class="hljs-name">span</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span>></span>
+            站长头像：<span class="hljs-tag">&#x3C;<span class="hljs-name">span</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"friend-link-highlight"</span>></span>{{ siteInfo.avatar }}<span class="hljs-tag">&#x3C;/<span class="hljs-name">span</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span>></span>
+            站点描述：<span class="hljs-tag">&#x3C;<span class="hljs-name">span</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"friend-link-highlight"</span>></span>雨滴会记录生命中的每一个瞬间<span class="hljs-tag">&#x3C;/<span class="hljs-name">span</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span>></span>
+            站点截图：<span class="hljs-tag">&#x3C;<span class="hljs-name">span</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"friend-link-highlight"</span>></span>https://r2tc.20030327.xyz/file/博客/主题/1780909850378_1780909790262.png<span class="hljs-tag">&#x3C;/<span class="hljs-name">span</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+</code></pre>
+<p>具体在这部分，正常情况会自动获取站点配置，但是部分信息得自己改，修改很简单，直接把对应文字或者链接改为自己的即可</p>
+<h3>部署</h3>
+<h4>本地部署预览</h4>
+<h5>环境变量</h5>
+<p>部署之前需要配置环境变量，先将根目录<code>.dev.vars.example</code>文件复制一份，重命名为<code>.dev.vars</code>，然后在里面按需配置信息即可，包含如下内容</p>
+<pre><code class="hljs language-cpp">WEBDAV_PASSWORD=你的webdav密码
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=admin123
+ADMIN_API_TOKEN=yourAPItoken
+SITE_URL=https:<span class="hljs-comment">//你的网站地址</span>
+</code></pre>
+<p>webdav密码，不使用云端相册可以不配置，账号密码必须要，否则打不开后台，apiToken尽量配置长一点复杂一点，用来在obsidian插件进行认证，请务必不要泄露这些信息，上传github仓库也请不要将环境变量一起上传，或者干脆将仓库设为私有，最保险</p>
+<h5>安装依赖</h5>
+<p>使用命令安装依赖</p>
+<pre><code class="hljs">pnpm install
+</code></pre>
+<p>或者</p>
+<pre><code class="hljs">npm install
+</code></pre>
+<p>可能需要特殊网络环境，注意最好使用管理员身份打开终端，不然容易报错</p>
+<h5>运行预览</h5>
+<p>预览命令如下</p>
+<table>
+<thead>
+<tr>
+<th>命令</th>
+<th>端口</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>npm run dev</code></td>
+<td>4859</td>
+<td>Vite 热更新；API 走本地 <code>content/</code> 插件，<strong>与云端行为不完全一致</strong></td>
+</tr>
+<tr>
+<td><code>npm run dev:cf</code></td>
+<td>8788</td>
+<td><strong>推荐</strong>：构建 + 本地 D1/R2 迁移 + <code>wrangler pages dev</code>，等同云端</td>
+</tr>
+<tr>
+<td><code>npm run dev:cf:lite</code></td>
+<td>8788</td>
+<td>仅重建前端并启动 wrangler，<strong>跳过数据迁移</strong>（改样式/UI 时用）</td>
+</tr>
+<tr>
+<td>说一下区别，<code>npm run dev:cf</code>命令是本地全量预览，会进行数据转移，即将本地文章转移到本地预览R2和数据库中，<code>npm run dev:cf:lite</code>这个命令和上一个命令一样，但是会跳过数据迁移部分，大大加快预览速度，首次建议<code>npm run dev:cf</code>，后续使用<code>npm run dev:cf:lite</code>即可</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>要是想删除本地数据库数据，可以使用后台手动删除，也可以直接删除<code>AueXUE\.wrangler\state</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>文件夹下所有文件，然后重新执行全量命令即可。</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4>云端部署</h4>
+<p>云端部署分为两种方式，终端部署和网页部署，终端部署比较简单，推荐终端</p>
+<h5>终端部署</h5>
+<h6>步骤 1：创建 Cloudflare 资源</h6>
+<p>运行如下命令创建数据库和R2，当然也可以使用网页手动创建，需要先登陆wrangler，登陆命令为<code>wrangler login</code>，没安装的话使用命令安装<code>npm install -g wrangler</code>
+登录后运行下列命令创建数据库和R2</p>
+<pre><code class="hljs language-shell"><span class="hljs-meta prompt_"># </span><span class="bash">创建 D1 数据库</span>
+npx wrangler d1 create aiovtue-blog
+<span class="hljs-meta prompt_">
+# </span><span class="bash">创建 R2 存储桶</span>
+npx wrangler r2 bucket create aiovtue-blog
+<span class="hljs-meta prompt_">
+# </span><span class="bash">创建 Pages 项目（若尚未创建）</span>
+npx wrangler pages project create aiovtue-blog --production-branch main
+</code></pre>
+<p>将 <code>d1 create</code> 输出的 <code>database_id</code> 填入 <code>wrangler.toml</code> 的 <code>database_id</code> 字段。
+ <code>wrangler.toml</code> 文件位于根目录下，需要填入对应的数据库id，如果修改了数据库名称等东西也要一起修改
+ </p>
+<h6>步骤 2：应用 D1 表结构</h6>
+<p>运行如下命令即可</p>
+<pre><code class="hljs">npm run d1:migrate
+</code></pre>
+<p>等价于：</p>
+<pre><code class="hljs language-css">npx wrangler d1 migrations apply aiovtue-blog <span class="hljs-attr">--remote</span>
+</code></pre>
+<p>数据库迁移文件位于 <code>migrations/</code>，包含如下文件：</p>
+<ol>
+<li><code>0001_posts.sql</code> — 文章表 + FTS</li>
+<li><code>0002_taxonomy.sql</code> — 分类/标签表</li>
+<li><code>0003_pin_order.sql</code> — 置顶字段</li>
+<li><code>0004_notice.sql</code> — 公告栏</li>
+<li><code>0005_admin_login_attempts.sql</code> — 登录限速</li>
+</ol>
+<h6>步骤 3：同步内容到 R2 + D1</h6>
+<p>运行如下命令同步数据，一行一行运行</p>
+<pre><code class="hljs language-shell">npm run migrate:posts
+npm run migrate:links
+npm run migrate:about
+npm run migrate:gallery
+npm run migrate:notice
+</code></pre>
+<h6>步骤 4：配置 Pages 环境变量</h6>
+<p>在 Cloudflare Dashboard → <strong>Workers &#x26; Pages</strong> → <strong>aiovtue-blog</strong> → <strong>Settings</strong> → <strong>Environment variables</strong> 中添加如下环境变量，和<code>.dev.vars</code>文件中的变量一样：</p>
+<table>
+<thead>
+<tr>
+<th>变量名</th>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ADMIN_USERNAME</code></td>
+<td>变量</td>
+<td>后台登录用户名</td>
+</tr>
+<tr>
+<td><code>ADMIN_PASSWORD</code></td>
+<td><strong>Secret</strong></td>
+<td>后台登录密码</td>
+</tr>
+<tr>
+<td><code>ADMIN_API_TOKEN</code></td>
+<td><strong>Secret</strong>（推荐）</td>
+<td>API 调用令牌，建议与登录密码不同</td>
+</tr>
+<tr>
+<td><code>WEBDAV_PASSWORD</code></td>
+<td><strong>Secret</strong>（可选）</td>
+<td>相册 WebDAV 代理密码</td>
+</tr>
+<tr>
+<td><code>SITE_URL</code></td>
+<td>变量</td>
+<td>站点主 URL，如 <code>https://daily.yybb.us</code></td>
+</tr>
+</tbody>
+</table>
+<p><code>wrangler.toml</code> 中 <code>[vars]</code> 的 <code>SITE_URL</code> 用于构建默认值；生产环境建议在 Dashboard 覆盖为你的自定义域名</p>
+<h6>步骤 5：构建并部署</h6>
+<p>使用如下命令构建部署，一行一行运行</p>
+<pre><code class="hljs language-shell">npm run build
+npx wrangler pages deploy dist --project-name aiovtue-blog --commit-dirty=true
+</code></pre>
+<p>执行完之后就能在cloudflare的项目列表看到该项目了，此时就能进行访问了</p>
+<h6>步骤 6：绑定自定义域名（可选）</h6>
+<p>Cloudflare Dashboard → Pages 项目 → <strong>Custom domains</strong> → 添加 <code>daily.yybb.us</code> 等域名，按提示配置 DNS
+要和下列文件中的url保持一致哦，不一致的话请绑定配置好后重新运行部署命令部署一下：</p>
+<ul>
+<li><code>site.config.ts</code> 中的 <code>url</code></li>
+<li><code>wrangler.toml</code> 中 <code>SITE_URL</code>（或 Dashboard 环境变量）</li>
+</ul>
+<br/>
+<h5>网页部署</h5>
+<p>部署前需要修改<code>wrangler.toml</code> 文件对应内容，确保cloudflare的D1和R2信息正确，也就是说要先创建数据库这些</p>
+<h6>登录并进入 Pages</h6>
+<ol>
+<li>打开 <a href="https://dash.cloudflare.com/">Cloudflare Dashboard</a></li>
+<li>左侧选择 <strong>Workers 和 Pages</strong>（Workers &#x26; Pages）</li>
+<li>若已有项目，点击 <strong>aiovtue-blog</strong>；否则点击 <strong>创建</strong> → <strong>Pages</strong> → <strong>连接到 Git</strong></li>
+</ol>
+<h6>创建项目（关联 Git）</h6>
+<ol>
+<li>选择 <strong>连接到 Git</strong>，授权 GitHub/GitLab</li>
+<li>选中本仓库 <code>AueXUE</code></li>
+<li>点击 <strong>开始设置</strong>，填写构建配置：</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>配置项</th>
+<th>填写内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>项目名称</td>
+<td><code>aiovtue-blog</code></td>
+</tr>
+<tr>
+<td>生产分支</td>
+<td><code>main</code>（或你的主分支）</td>
+</tr>
+<tr>
+<td>框架预设</td>
+<td><code>None</code>（无预设）</td>
+</tr>
+<tr>
+<td>构建命令</td>
+<td><code>npm run build</code></td>
+</tr>
+<tr>
+<td>构建输出目录</td>
+<td><code>dist</code></td>
+</tr>
+<tr>
+<td>根目录</td>
+<td><code>/</code>（仓库根目录）</td>
+</tr>
+</tbody>
+</table>
+<ol start="4">
+<li>点击 <strong>环境变量</strong> → <strong>添加变量</strong>（见下文「四、配置环境变量」），也可以先保存后面在添加，然后 <strong>保存并部署</strong></li>
+</ol>
+<h6>绑定 D1 与 R2</h6>
+<p>部署完成后，进入项目 <strong>aiovtue-blog</strong> → <strong>设置（Settings）</strong> → <strong>函数（Functions）</strong> → <strong>绑定（Bindings）</strong>：
+添加 D1 数据库绑定</p>
+<ol>
+<li>点击 <strong>添加</strong> → <strong>D1 database</strong></li>
+<li>变量名填：<code>DB</code>（必须与 <code>wrangler.toml</code> 一致）</li>
+<li>选择数据库：<code>aiovtue-blog</code></li>
+<li>保存</li>
+</ol>
+<p>若列表中没有 D1，需先到 <strong>Storage &#x26; databases</strong> → <strong>D1</strong> → <strong>创建数据库</strong>，名称 <code>aiovtue-blog</code>。
+添加 R2 存储桶绑定</p>
+<ol>
+<li>点击 <strong>添加</strong> → <strong>R2 bucket</strong></li>
+<li>变量名填：<code>BUCKET</code></li>
+<li>选择存储桶：<code>aiovtue-blog</code></li>
+<li>保存</li>
+</ol>
+<p>若尚无 R2，到 <strong>R2</strong> → <strong>创建存储桶</strong>，名称 <code>aiovtue-blog</code></p>
+<blockquote>
+<p>绑定修改后，需在 <strong>部署（Deployments）</strong> 中 <strong>重新部署</strong> 一次生产环境，新绑定才会生效。</p>
+</blockquote>
+<hr>
+<h6>配置环境变量</h6>
+<p>路径：<strong>设置</strong> → <strong>环境变量（Variables and Secrets）</strong> → <strong>添加</strong>如下变量，和<code>.dev.vars</code>文件内变量一致</p>
+<table>
+<thead>
+<tr>
+<th>变量名</th>
+<th>类型</th>
+<th>生产环境值示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ADMIN_USERNAME</code></td>
+<td>文本（Variable）</td>
+<td>你的后台用户名</td>
+</tr>
+<tr>
+<td><code>ADMIN_PASSWORD</code></td>
+<td>加密（Secret）</td>
+<td>你的后台密码</td>
+</tr>
+<tr>
+<td><code>ADMIN_API_TOKEN</code></td>
+<td>加密（Secret）</td>
+<td>随机长字符串（与密码不同）</td>
+</tr>
+<tr>
+<td><code>WEBDAV_PASSWORD</code></td>
+<td>加密（Secret）</td>
+<td>相册 WebDAV 密码（可选）</td>
+</tr>
+<tr>
+<td><code>SITE_URL</code></td>
+<td>文本（Variable）</td>
+<td><code>https://daily.yybb.us</code></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>修改环境变量后，点击 <strong>重新部署</strong> 使配置生效</li>
+</ul>
+<h6>在控制台执行 D1 数据库迁移</h6>
+<p>关联 Git 不会自动执行 <code>migrations/</code> 里的 SQL，<strong>首次部署</strong>或<strong>有新迁移文件</strong>时需处理表结构。</p>
+<ol>
+<li>Dashboard → <strong>Storage &#x26; databases</strong> → <strong>D1</strong> → 选择 <strong>aiovtue-blog</strong></li>
+<li>打开 <strong>控制台（Console）</strong> 标签</li>
+<li>将 <code>migrations/</code> 下各 <code>.sql</code> 文件内容<strong>按编号顺序</strong>粘贴执行：
+<ul>
+<li><code>0001_posts.sql</code></li>
+<li><code>0002_taxonomy.sql</code></li>
+<li><code>0003_pin_order.sql</code></li>
+<li><code>0004_notice.sql</code></li>
+<li><code>0005_admin_login_attempts.sql</code></li>
+</ul>
+</li>
+</ol>
+<p>即使用文档软件打开上面的文件，复制其中的内容，粘贴到cloudflare网页端数据库终端中运行即可，每个文件都要运行一遍，注意要按顺序运行，一次一个</p>
+<h6>步骤 6：绑定自定义域名（可选）</h6>
+<p>Cloudflare Dashboard → Pages 项目 → <strong>Custom domains</strong> → 添加 <code>daily.yybb.us</code> 等域名，按提示配置 DNS
+要和下列文件中的url保持一致哦，不一致的话请绑定配置好后重新运行部署命令部署一下：</p>
+<ul>
+<li><code>site.config.ts</code> 中的 <code>url</code></li>
+<li><code>wrangler.toml</code> 中 <code>SITE_URL</code>（或 Dashboard 环境变量）</li>
+</ul>2c:["$","div",null,{"id":"article-content","className":"prose prose-slate dark:prose-invert prose-base md:prose-lg max-w-none text-slate-800 dark:text-slate-200 transition-colors duration-700 scroll-smooth","dangerouslySetInnerHTML":{"__html":"$2f"}}]
+2d:["$","div",null,{"className":"mt-12 md:mt-16","children":["$","$L30",null,{}]}]
+2e:["$","aside",null,{"className":"w-full lg:w-[320px] flex flex-col gap-6 flex-shrink-0","children":[["$","div",null,{"className":"bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl p-6 border border-white/40 dark:border-white/10 shadow-xl text-center","children":[["$","div",null,{"className":"w-20 h-20 mx-auto rounded-full p-1 bg-gradient-to-tr from-indigo-500 to-purple-500 shadow-md mb-4 transition-transform duration-500 hover:rotate-3","children":["$","img",null,{"src":"https://avatars.githubusercontent.com/u/321728159?v=4","alt":"avatar","className":"w-full h-full rounded-full object-cover bg-white"}]}],["$","h3",null,{"className":"text-xl font-bold text-slate-900 dark:text-white mb-2","children":"F. B. Weber"}],["$","p",null,{"className":"text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-medium mb-4","children":"Independent developer · Serverless enthusiast · Building with Cloudflare Workers, Vercel & free stacks"}],["$","$L31",null,{}]]}],["$","$L32",null,{}],["$","div",null,{"className":"bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl p-6 border border-white/40 dark:border-white/10 shadow-xl","children":[["$","h3",null,{"className":"font-black text-slate-900 dark:text-white mb-4 border-l-4 border-indigo-500 pl-2 text-sm","children":"RECOMMENDED"}],["$","div",null,{"className":"space-y-4","children":[["$","$L33","blog-cms",{"href":"/posts/blog-cms","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"blog-cms — Hugo + Decap CMS Blog System"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-28 10:00:00"}]]}],["$","$L33","github-profile",{"href":"/posts/github-profile","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"GitHub Profile README"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-28 08:00:00"}]]}],["$","$L33","homepage",{"href":"/posts/homepage","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"fbwe425.github.io — Personal Developer Homepage"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-31 09:00:00"}]]}]]}]]}],["$","$L34",null,{"toc":[{"level":3,"text":"简介","id":"简介"},{"level":3,"text":"自定义","id":"自定义"},{"level":3,"text":"部署","id":"部署"},{"level":1,"text":"创建 D1 数据库","id":"创建-d1-数据库"},{"level":1,"text":"创建 R2 存储桶","id":"创建-r2-存储桶"},{"level":1,"text":"创建 Pages 项目（若尚未创建）","id":"创建-pages-项目（若尚未创建）"}]}]]}]
+25:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+35:I[27201,["/XinghuisamaBlogs/_next/static/chunks/0kxt0f93sv6wh.js","/XinghuisamaBlogs/_next/static/chunks/00houpzninlg2.js","/XinghuisamaBlogs/_next/static/chunks/00-csyj9a6t-x.js"],"IconMark"]
+22:null
+27:[["$","title","0",{"children":"F. B. Weber's Dev Space"}],["$","meta","1",{"name":"description","content":"Independent developer · Serverless enthusiast · Building with Cloudflare Workers, Vercel & free stacks"}],["$","link","2",{"rel":"icon","href":"https://avatars.githubusercontent.com/u/321728159?v=4"}],["$","link","3",{"rel":"apple-touch-icon","href":"https://avatars.githubusercontent.com/u/321728159?v=4"}],["$","$L35","4",{}]]
