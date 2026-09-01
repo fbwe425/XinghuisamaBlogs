@@ -1,47 +1,50 @@
 ---
-title: "GitHub Profile README"
+title: "GitHub 个人主页介绍"
 date: "2026-08-28 08:00:00"
-description: "My GitHub profile README — who I am, what I work with, and what I'm building."
+description: "关于我、我的技术方向，以及正在构建的项目。"
 cover: "https://opengraph.githubassets.com/1/fbwe425/fbwe425"
-tags: ["GitHub", "Profile", "About Me"]
+tags: ["GitHub", "个人主页", "关于我"]
 ---
 
-# Hi there 👋 I'm F. B. Weber
+# 你好，我是 F. B. Weber 👋
 
-> ☁️ Independent developer · **Serverless enthusiast** · Free-stack builder
+> ☁️ 独立开发者 · **无服务器技术爱好者** · 免费技术栈实践者
 
-I build things that run on the edge — no servers to babysit, no bills to stress about. Just code, deploy, and scale to zero. ⚡
-
----
-
-## 🛠️ What I work with
-
-| Category | Tools |
-|----------|-------|
-| ☁️ Serverless | Cloudflare Workers, Vercel Edge Functions, Deno Deploy |
-| 🖥️ Frameworks | Hono, Next.js, Astro, Remix, Vue.js, Hugo |
-| 🗄️ Data | D1, KV, **R2 Storage**, Upstash, Turso, Neon |
-| ⚡ Language | TypeScript (and a bit of Rust) |
-| 🚀 Deploy | Cloudflare Pages, Vercel, GitHub Pages, GitHub Actions |
-
-## 📂 Featured projects
-
-- **[blog-cms](https://github.com/fbwe425/blog-cms)** — Hugo + Decap CMS blog system with admin dashboard, dark/light theme, full-text search
-- **[AueXUE](https://github.com/fbwe425/AueXUE)** — Dynamic blog powered by Cloudflare R2 + D1, with Obsidian plugin for one-click publishing
-
-## 🌱 Currently exploring
-
-- Building full-stack apps entirely on **free tiers**
-- Edge-computing patterns with **Workers & D1 & R2**
-- Obsidian ecosystem integrations for serverless workflows 🎯
-
-## 📫 Get in touch
-
-- 🐦 Twitter: [@fbwe425](https://twitter.com/fbwe425)
-- 📧 Email: fbwe425@fnosmail.com
+我专注于构建运行在边缘节点上的应用——无需维护服务器，无需承担高昂账单，只需编写代码、部署并按需扩展。⚡
 
 ---
 
-*The best server is the one you never have to manage.* ☁️
+## 🛠️ 我使用的技术
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=green&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffbwe425.profile%2Freadme)
+| 分类 | 技术 |
+|---|---|
+| ☁️ 无服务器 | Cloudflare Workers、Vercel Edge Functions、Deno Deploy |
+| 🖥️ 开发框架 | Hono、Next.js、Astro、Remix、Vue.js、Hugo |
+| 🗄️ 数据服务 | D1、KV、**R2 Storage**、Upstash、Turso、Neon |
+| ⚡ 编程语言 | TypeScript，以及少量 Rust |
+| 🚀 部署平台 | Cloudflare Pages、Vercel、GitHub Pages、GitHub Actions |
+
+## 📂 我的项目
+
+- **[blog-cms](https://github.com/fbwe425/blog-cms)** —— 基于 Hugo 和 Decap CMS 的博客系统，提供管理面板、深色/浅色主题与全文搜索
+- **[AueXUE](https://github.com/fbwe425/AueXUE)** —— 基于 Cloudflare R2 与 D1 的动态博客，支持 Obsidian 一键发布
+- **[fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io)** —— 我的个人博客与开发主页
+- **[XinghuisamaBlogs](https://github.com/fbwe425/fbwe425.github.io)** —— 基于 Next.js 的毛玻璃风格博客系统
+
+## 🌱 当前探索方向
+
+- 使用**免费服务层**构建完整的全栈应用
+- 探索 **Workers、D1 与 R2** 的边缘计算模式
+- 将 Obsidian 接入无服务器工作流 🎯
+- 使用 GitHub Actions 自动化构建与部署
+
+## 📫 联系我
+
+- 🐙 GitHub：[ @fbwe425](https://github.com/fbwe425)
+- 📧 邮箱：fbwe425@fnosmail.com
+
+---
+
+*最好的服务器，就是那台你永远不需要维护的服务器。* ☁️
+
+![访问量](https://img.shields.io/badge/profile-fbwe425-blue)
