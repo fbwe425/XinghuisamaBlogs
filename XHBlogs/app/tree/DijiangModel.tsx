@@ -406,7 +406,7 @@ export default function DijiangModel({ posts = [], chatters = [], moments = [] }
       { num: 3, tier: 3, title: '精英干员' }, { num: 5, tier: 4, title: '资深干员' },
       { num: 10, tier: 5, title: '高级资深' }, { num: 15, tier: 6, title: '战术指挥' },
       { num: 20, tier: 7, title: '协议主管' }, { num: 30, tier: 8, title: '终末枢纽' },
-      { num: 40, tier: 9, title: '塔卫二领航' }, { num: 50, tier: 10, title: '罗德岛之眼' }
+      { num: 40, tier: 9, title: '塔卫二领航' }, { num: 50, tier: 10, title: 'Observer' }
     ];
     levelConfig.forEach(conf => {
       const id = `lvl-${conf.num}`;
@@ -416,7 +416,7 @@ export default function DijiangModel({ posts = [], chatters = [], moments = [] }
 
     const postChatterConfig = [
       { num: 10, tier: 2, title: '浅层勘测' }, { num: 50, tier: 3, title: '战术总结' },
-      { num: 100, tier: 4, title: '机密档案' }, { num: 150, tier: 5, title: '源石解析' },
+      { num: 100, tier: 4, title: '机密档案' }, { num: 150, tier: 5, title: 'Deep Analysis' },
       { num: 200, tier: 6, title: '协议核心' }, { num: 250, tier: 7, title: '灾兽洞察' },
       { num: 300, tier: 8, title: '遗迹启示' }, { num: 400, tier: 9, title: '终末真理' },
       { num: 450, tier: 9, title: '塔卫二全书' }, { num: 500, tier: 10, title: '普瑞赛斯之忆' }
@@ -447,7 +447,7 @@ export default function DijiangModel({ posts = [], chatters = [], moments = [] }
     const photoConfig = [
       { num: 10, tier: 3, title: '镜头校准' },
       { num: 50, tier: 6, title: '战地纪实' },
-      { num: 100, tier: 10, title: '泰拉全景' }
+      { num: 100, tier: 10, title: 'Panorama' }
     ];
     photoConfig.forEach(conf => {
       const id = `photo-${conf.num}`;
@@ -562,7 +562,7 @@ export default function DijiangModel({ posts = [], chatters = [], moments = [] }
       `}} />
 
       {/* ========================================== */}
-      {/* 🌟 罗德岛人事中心：干员档案板 (Operator Profile) */}
+      {/* 🌟 Profile Board (Operator Profile) */}
       {/* ========================================== */}
       {rpgStats && (
         <div className="w-full max-w-6xl mb-8 px-4 z-30 flex flex-col gap-4 relative mt-2">
