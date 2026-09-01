@@ -14,7 +14,7 @@
 :HL["/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f112ed7f0b91582f-s.p.0xqqmnf1a3x8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/0bdu06~tkerfr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0kxt0f93sv6wh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0kj_1ivkk~zyy.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[false,["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1a1a2e)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L9","$La"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}]}]]}]]}],{"children":["$L11",{},null,false,null]},null,false,null],"$L12",false]],"m":"$undefined","G":["$13",["$L14","$L15","$L16","$L17"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"FZ2TrXhmJTTDR-44DnWDy"}
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/0bdu06~tkerfr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0kxt0f93sv6wh.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0kj_1ivkk~zyy.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[false,["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #1a1a2e)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$L9","$La"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}]}]]}]]}],{"children":["$L11",{},null,false,null]},null,false,null],"$L12",false]],"m":"$undefined","G":["$13",["$L14","$L15","$L16","$L17"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_T02VM2-DAAE_XtmGhDi4"}
 18:I[94909,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
 19:I[43173,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
 1a:I[38197,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/0kj_1ivkk~zyy.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
@@ -802,46 +802,50 @@ MIT License
 - [Decap CMS](https://decapcms.org/) — 开源内容管理系统
 - [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) — 优秀的 Hugo 主题
 - [Cloudflare](https://www.cloudflare.com/) — 免费的 CDN、Pages 和 Functions
-24:T5ef,
-# Hi there 👋 I'm F. B. Weber
+24:T6ef,
+# 你好，我是 F. B. Weber 👋
 
-> ☁️ Independent developer · **Serverless enthusiast** · Free-stack builder
+> ☁️ 独立开发者 · **无服务器技术爱好者** · 免费技术栈实践者
 
-I build things that run on the edge — no servers to babysit, no bills to stress about. Just code, deploy, and scale to zero. ⚡
-
----
-
-## 🛠️ What I work with
-
-| Category | Tools |
-|----------|-------|
-| ☁️ Serverless | Cloudflare Workers, Vercel Edge Functions, Deno Deploy |
-| 🖥️ Frameworks | Hono, Next.js, Astro, Remix, Vue.js, Hugo |
-| 🗄️ Data | D1, KV, **R2 Storage**, Upstash, Turso, Neon |
-| ⚡ Language | TypeScript (and a bit of Rust) |
-| 🚀 Deploy | Cloudflare Pages, Vercel, GitHub Pages, GitHub Actions |
-
-## 📂 Featured projects
-
-- **[blog-cms](https://github.com/fbwe425/blog-cms)** — Hugo + Decap CMS blog system with admin dashboard, dark/light theme, full-text search
-- **[AueXUE](https://github.com/fbwe425/AueXUE)** — Dynamic blog powered by Cloudflare R2 + D1, with Obsidian plugin for one-click publishing
-
-## 🌱 Currently exploring
-
-- Building full-stack apps entirely on **free tiers**
-- Edge-computing patterns with **Workers & D1 & R2**
-- Obsidian ecosystem integrations for serverless workflows 🎯
-
-## 📫 Get in touch
-
-- 🐦 Twitter: [@fbwe425](https://twitter.com/fbwe425)
-- 📧 Email: fbwe425@fnosmail.com
+我专注于构建运行在边缘节点上的应用——无需维护服务器，无需承担高昂账单，只需编写代码、部署并按需扩展。⚡
 
 ---
 
-*The best server is the one you never have to manage.* ☁️
+## 🛠️ 我使用的技术
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=green&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffbwe425.profile%2Freadme)25:T3251,
+| 分类 | 技术 |
+|---|---|
+| ☁️ 无服务器 | Cloudflare Workers、Vercel Edge Functions、Deno Deploy |
+| 🖥️ 开发框架 | Hono、Next.js、Astro、Remix、Vue.js、Hugo |
+| 🗄️ 数据服务 | D1、KV、**R2 Storage**、Upstash、Turso、Neon |
+| ⚡ 编程语言 | TypeScript，以及少量 Rust |
+| 🚀 部署平台 | Cloudflare Pages、Vercel、GitHub Pages、GitHub Actions |
+
+## 📂 我的项目
+
+- **[blog-cms](https://github.com/fbwe425/blog-cms)** —— 基于 Hugo 和 Decap CMS 的博客系统，提供管理面板、深色/浅色主题与全文搜索
+- **[AueXUE](https://github.com/fbwe425/AueXUE)** —— 基于 Cloudflare R2 与 D1 的动态博客，支持 Obsidian 一键发布
+- **[fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io)** —— 我的个人博客与开发主页
+- **[XinghuisamaBlogs](https://github.com/fbwe425/fbwe425.github.io)** —— 基于 Next.js 的毛玻璃风格博客系统
+
+## 🌱 当前探索方向
+
+- 使用**免费服务层**构建完整的全栈应用
+- 探索 **Workers、D1 与 R2** 的边缘计算模式
+- 将 Obsidian 接入无服务器工作流 🎯
+- 使用 GitHub Actions 自动化构建与部署
+
+## 📫 联系我
+
+- 🐙 GitHub：[ @fbwe425](https://github.com/fbwe425)
+- 📧 邮箱：fbwe425@fnosmail.com
+
+---
+
+*最好的服务器，就是那台你永远不需要维护的服务器。* ☁️
+
+![访问量](https://img.shields.io/badge/profile-fbwe425-blue)
+25:T3251,
 ### 简介
 *AueXUE* 是一个基于cloudflare进行托管，使用R2作为储存源，D1作为数据库的现代化动态博客项目，无需每次更改重新部署项目，实时预览你的更改，同时配套专属obsidian插件，方便在obsidian管理和发布文章，配有一键发布文章的功能，在obsidian打开对应文章点击发布即可直接将文档发布到云端并返回分享链接
 #### 网站预览
@@ -1093,7 +1097,7 @@ Cloudflare Dashboard → Pages 项目 → **Custom domains** → 添加 `dail
 - `site.config.ts` 中的 `url`
 - `wrangler.toml` 中 `SITE_URL`（或 Dashboard 环境变量）
 
-11:["$","$1","c",{"children":[["$","$L1d",null,{"children":["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L1e",null,{}],["$","$L1f",null,{"children":["$","div",null,{"className":"w-full max-w-6xl mx-auto mt-24 sm:mt-28 px-4 sm:px-6 lg:px-10 relative z-10","children":[["$","$L20",null,{"posts":[{"slug":"xinghuisamablogs","title":"XinghuisamaBlogs — Glassmorphism Next.js Blog","date":"2026-08-31 12:00:00","description":"A Next.js 16 glassmorphism blog, forked and customized. Deployed to GitHub Pages via GitHub Actions.","cover":"https://opengraph.githubassets.com/1/fbwe425/XinghuisamaBlogs","tags":["Next.js","TypeScript","GitHub Pages","GitHub Actions"],"content":"$21","formattedDate":"2026.08.31 12:00"},{"slug":"homepage","title":"fbwe425.github.io — Personal Developer Homepage","date":"2026-08-31 09:00:00","description":"Personal portfolio site with animated starfield background. Zero frameworks — just HTML, CSS, JavaScript.","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425.github.io","tags":["HTML","CSS","GitHub Pages","Portfolio"],"content":"$22","formattedDate":"2026.08.31 09:00"},{"slug":"blog-cms","title":"blog-cms — Hugo + Decap CMS Blog System","date":"2026-08-28 10:00:00","description":"A static blog CMS with admin dashboard, deployable to Cloudflare Pages, Vercel or GitHub Pages.","cover":"https://opengraph.githubassets.com/1/fbwe425/blog-cms","tags":["Hugo","CMS","Cloudflare Pages","JavaScript"],"content":"$23","formattedDate":"2026.08.28 10:00"},{"slug":"github-profile","title":"GitHub Profile README","date":"2026-08-28 08:00:00","description":"My GitHub profile README — who I am, what I work with, and what I'm building.","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425","tags":["GitHub","Profile","About Me"],"content":"$24","formattedDate":"2026.08.28 08:00"},{"slug":"auexue","title":"AueXUE — Dynamic Blog on Cloudflare","date":"2026-08-27 15:00:00","description":"A fully dynamic blog built entirely on Cloudflare — Workers, D1 database, R2 storage. With Obsidian plugin support.","cover":"https://opengraph.githubassets.com/1/fbwe425/AueXUE","tags":["Vue","Cloudflare Workers","D1","R2"],"content":"$25","formattedDate":"2026.08.27 15:00"}]}],"$L26"]}]}]]}]}],["$L27"],"$L28"]}]
+11:["$","$1","c",{"children":[["$","$L1d",null,{"children":["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L1e",null,{}],["$","$L1f",null,{"children":["$","div",null,{"className":"w-full max-w-6xl mx-auto mt-24 sm:mt-28 px-4 sm:px-6 lg:px-10 relative z-10","children":[["$","$L20",null,{"posts":[{"slug":"xinghuisamablogs","title":"XinghuisamaBlogs — Glassmorphism Next.js Blog","date":"2026-08-31 12:00:00","description":"A Next.js 16 glassmorphism blog, forked and customized. Deployed to GitHub Pages via GitHub Actions.","cover":"https://opengraph.githubassets.com/1/fbwe425/XinghuisamaBlogs","tags":["Next.js","TypeScript","GitHub Pages","GitHub Actions"],"content":"$21","formattedDate":"2026.08.31 12:00"},{"slug":"homepage","title":"fbwe425.github.io — Personal Developer Homepage","date":"2026-08-31 09:00:00","description":"Personal portfolio site with animated starfield background. Zero frameworks — just HTML, CSS, JavaScript.","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425.github.io","tags":["HTML","CSS","GitHub Pages","Portfolio"],"content":"$22","formattedDate":"2026.08.31 09:00"},{"slug":"blog-cms","title":"blog-cms — Hugo + Decap CMS Blog System","date":"2026-08-28 10:00:00","description":"A static blog CMS with admin dashboard, deployable to Cloudflare Pages, Vercel or GitHub Pages.","cover":"https://opengraph.githubassets.com/1/fbwe425/blog-cms","tags":["Hugo","CMS","Cloudflare Pages","JavaScript"],"content":"$23","formattedDate":"2026.08.28 10:00"},{"slug":"github-profile","title":"GitHub 个人主页介绍","date":"2026-08-28 08:00:00","description":"关于我、我的技术方向，以及正在构建的项目。","cover":"https://opengraph.githubassets.com/1/fbwe425/fbwe425","tags":["GitHub","个人主页","关于我"],"content":"$24","formattedDate":"2026.08.28 08:00"},{"slug":"auexue","title":"AueXUE — Dynamic Blog on Cloudflare","date":"2026-08-27 15:00:00","description":"A fully dynamic blog built entirely on Cloudflare — Workers, D1 database, R2 storage. With Obsidian plugin support.","cover":"https://opengraph.githubassets.com/1/fbwe425/AueXUE","tags":["Vue","Cloudflare Workers","D1","R2"],"content":"$25","formattedDate":"2026.08.27 15:00"}]}],"$L26"]}]}]]}]}],["$L27"],"$L28"]}]
 12:["$","$1","h",{"children":[null,["$","$L29",null,{"children":"$L2a"}],["$","div",null,{"hidden":true,"children":["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.Metadata","children":"$L2d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 14:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 15:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/066jf0nk75nic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
