@@ -51,7 +51,7 @@ export default function PhotoWallClient() {
               <div className="flex flex-col md:flex-row justify-between items-center mb-16 gap-6">
                 <div>
                   <h1 className="text-4xl md:text-5xl font-black text-slate-900 dark:text-white tracking-widest mb-2 transition-colors duration-700">光影画廊</h1>
-                  <p className="text-slate-600 dark:text-slate-400 font-medium tracking-wider transition-colors duration-700">Capturing moments, one frame at a time</p>
+                  <p className="text-slate-600 dark:text-slate-400 font-medium tracking-wider transition-colors duration-700">记录每一个值得珍藏的瞬间</p>
                 </div>
 
                 <div className="relative w-full md:w-80 group">
@@ -137,7 +137,7 @@ export default function PhotoWallClient() {
 
                 {activeQuery && matchedAlbums.length === 0 && matchedPhotos.length === 0 && (
                   <div className="text-center py-20 text-slate-500 font-medium">
-                    No matching memories found...
+                    没有找到匹配的记录……
                   </div>
                 )}
               </div>
