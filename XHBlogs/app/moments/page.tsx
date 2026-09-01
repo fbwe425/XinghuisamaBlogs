@@ -8,7 +8,7 @@ import { siteConfig } from '../../siteConfig';
 
 export const metadata = {
   title: "说说 | " + siteConfig.title,
-  description: "Developer updates and moments",
+  description: "开发动态与生活记录",
 };
 
 export default function MomentsPage() {
