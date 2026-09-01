@@ -47,7 +47,7 @@ export default function FriendsBoard() {
             开发者链接
           </h1>
           <p className="text-xs md:text-base text-slate-600 dark:text-slate-400 font-serif">
-            实用链接与开发者资源。
+            Useful links and developer resources.
           </p>
         </div>
       </div>
@@ -106,7 +106,7 @@ export default function FriendsBoard() {
         className="mt-14 md:mt-20 bg-white/40 dark:bg-slate-800/40 backdrop-blur-xl border border-white/50 dark:border-slate-700/50 rounded-2xl md:rounded-3xl p-5 md:p-8 max-w-3xl mx-auto text-center shadow-lg md:shadow-xl relative"
       >
         <h2 className="text-lg md:text-2xl font-black text-slate-900 dark:text-white mb-2 md:mb-4 tracking-wider">
-          ✨ 添加开发者链接
+          ✨ Add a developer link
         </h2>
         <p className="text-xs md:text-base text-slate-600 dark:text-slate-400 font-serif mb-4 md:mb-6">
           Want to exchange links? Copy the format below and leave a message:
