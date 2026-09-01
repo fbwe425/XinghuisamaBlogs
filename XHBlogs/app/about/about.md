@@ -1,27 +1,34 @@
 ---
-title: 关于我
-date: '2026-03-31'
+title: About Me
+date: '2026-08-27'
 tags: []
 mood: ''
-cover: https://bu.dusays.com/2026/03/24/69c23dc278c78.jpg
+cover: https://avatars.githubusercontent.com/u/321728159?v=4
 description: ''
 ---
 
-个人简介
+Hi there 👋 I'm F. B. Weber
 
-你好，我是 XingHuiSama。
+> ☁️ Independent developer · **Serverless enthusiast** · Free-stack builder
 
-专注于**计算化学、人工智能与软件工程**的交叉应用。
+I build things that run on the edge — no servers to babysit, no bills to stress about. Just code, deploy, and scale to zero. ⚡
 
-**🔬 研究与计算方向**
+**🛠️ What I work with**
 
-* **图神经网络:** 用于分子性质预测与特征提取。
-* **分子对接:** 用于评估配体与受体蛋白的结合模式与亲和力。
-* **分子动力学模拟 :** 用于探究生物大分子在原子尺度的动态行为与构象变化。
+| Category | Tools |
+|----------|-------|
+| ☁️ Serverless | Cloudflare Workers, Vercel Edge Functions, Deno Deploy |
+| 🖥️ Frameworks | Hono, Next.js, Astro, Remix, Vue.js, Hugo |
+| 🗄️ Data | D1, KV, R2 Storage, Upstash, Turso, Neon |
+| ⚡ Language | TypeScript (and a bit of Rust) |
+| 🚀 Deploy | Cloudflare Pages, Vercel, GitHub Pages, GitHub Actions |
 
-**💻 软件工程能力**
+**📂 Projects**
 
-* **后端开发:** 使用 **Spring Boot** 框架构建服务端架构，能够处理复杂的数据逻辑与计算任务调度。
-* **前端开发:** 熟练掌握 **Vue.js** 与 **React** 框架，为复杂科学数据的可视化与交互提供流畅的体验。
+- **[blog-cms](https://github.com/fbwe425/blog-cms)** — Hugo + Decap CMS blog system with admin dashboard
+- **[AueXUE](https://github.com/fbwe425/AueXUE)** — Dynamic blog powered entirely by Cloudflare
+- **[fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io)** — Personal homepage with animated starfield
 
-**欢迎各位朋友联系交流~**
+**📍 Location:** Shanghai, China
+
+**📧 Contact:** fbwe425@fnosmail.com
