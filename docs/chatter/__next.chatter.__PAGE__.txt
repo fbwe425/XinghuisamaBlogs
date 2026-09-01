@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[62319,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0.avi.t1debvu.js"],"default"]
+3:I[66357,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0.avi.t1debvu.js"],"default"]
+4:I[9434,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0.avi.t1debvu.js"],"default"]
+5:I[97367,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"chatters":[{"slug":"2026-08-31-welcome","title":"Welcome","date":"2026-08-31 12:00:00","tags":["dev"],"mood":"building","cover":"https://avatars.githubusercontent.com/u/321728159?v=4","content":"\nServerless is the way. Building with Cloudflare Workers, Vercel, and the free stack. 🚀\n"}]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0.avi.t1debvu.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"--U-XAlkO9CkbpwNOokkc"}
+7:null

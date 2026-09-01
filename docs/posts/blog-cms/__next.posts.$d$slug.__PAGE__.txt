@@ -1,0 +1,409 @@
+1:"$Sreact.fragment"
+2:I[62319,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+3:I[66357,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+4:I[1509,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+f:I[24170,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+10:I[57592,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+11:I[55581,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+12:I[22016,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],""]
+13:I[60763,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0f11whapg2-z8.js","/_next/static/chunks/0iwhyxshj2rrg.js"],"default"]
+14:I[97367,["/_next/static/chunks/0kxt0f93sv6wh.js","/_next/static/chunks/00houpzninlg2.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+:HL["https://opengraph.githubassets.com/1/fbwe425/blog-cms","image"]
+:HL["https://avatars.githubusercontent.com/u/321728159?v=4","image"]
+:HL["/_next/static/chunks/15cahw4d8-wp1.css","style"]
+:HL["/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
+5:T1dfc,
+                  .prose h1 { font-size: 1.8rem !important; font-weight: 900 !important; margin-bottom: 1.2rem !important; margin-top: 2rem !important; line-height: 1.3 !important; color: inherit !important; }
+                  .prose h2 { font-size: 1.5rem !important; font-weight: 800 !important; margin-bottom: 1rem !important; margin-top: 1.5rem !important; color: inherit !important; }
+                  .prose h3 { font-size: 1.2rem !important; font-weight: 700 !important; margin-bottom: 0.8rem !important; color: inherit !important; }
+                  .prose p { font-size: 0.95rem !important; line-height: 1.75 !important; color: inherit !important; }
+                  
+                  .prose a { color: #6366f1 !important; text-decoration: none !important; font-weight: 600 !important; border-bottom: 1px dashed #6366f1 !important; transition: all 0.3s ease !important; }
+                  .prose a:hover { color: #4f46e5 !important; border-bottom-style: solid !important; background-color: rgba(99, 102, 241, 0.1) !important; padding: 0 0.2rem !important; border-radius: 0.2rem !important; }
+                  .dark .prose a { color: #818cf8 !important; border-bottom-color: #818cf8 !important; }
+                  .dark .prose a:hover { color: #a5b4fc !important; background-color: rgba(129, 140, 248, 0.15) !important; }
+
+                  .prose ul { list-style-type: disc !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+                  .prose ol { list-style-type: decimal !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+                  .prose li { display: list-item !important; margin-bottom: 0.5rem !important; }
+                  
+                  .prose ul ul, .prose ol ul { list-style-type: circle !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+                  .prose ol ol, .prose ul ol { list-style-type: lower-alpha !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+                  
+                  .prose del { text-decoration-color: inherit !important; opacity: 0.6; }
+                  
+                  /* 🌟 引用块专属果冻极客风样式补丁 */
+                  .prose blockquote {
+                    border-left: 4px solid #6366f1 !important;
+                    background-color: rgba(99, 102, 241, 0.05) !important;
+                    padding: 1rem 1.5rem !important;
+                    margin: 1.5rem 0 !important;
+                    border-radius: 0 1.25rem 1.25rem 0 !important;
+                    font-style: italic !important;
+                    color: #64748b !important;
+                  }
+                  .prose blockquote p {
+                    margin: 0 !important; 
+                    color: inherit !important;
+                  }
+                  .dark .prose blockquote {
+                    border-left-color: #818cf8 !important;
+                    background-color: rgba(129, 140, 248, 0.1) !important;
+                    color: #94a3b8 !important;
+                  }
+                  
+                  .prose pre {
+                    background-color: #282c34 !important; color: #abb2bf !important;
+                    padding: 1rem !important; border-radius: 0.75rem !important;
+                    overflow-x: auto !important; box-shadow: inset 0 0 10px rgba(0,0,0,0.3) !important;
+                    margin-top: 1rem !important; margin-bottom: 1rem !important;
+                  }
+                  
+                  .prose pre code, .prose p code, .prose li code { 
+                    font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, ui-monospace, monospace !important; 
+                    font-variant-ligatures: contextual !important; 
+                  }
+                  .prose pre code { 
+                    background-color: transparent !important; 
+                    padding: 0 !important; 
+                    color: inherit !important; 
+                    font-size: 0.85em !important; 
+                  }
+                  
+                  .prose code::before, .prose code::after { content: none !important; }
+                  .prose p code, .prose li code { background-color: rgba(99, 102, 241, 0.1) !important; color: #6366f1 !important; padding: 0.1rem 0.3rem !important; border-radius: 0.25rem !important; font-weight: 600 !important; font-size: 0.85em !important; }
+                  .dark .prose p code, .dark .prose li code { background-color: rgba(99, 102, 241, 0.2) !important; color: #818cf8 !important; }
+                  .prose img { display: block !important; margin: 1.5rem auto !important; border-radius: 1rem !important; box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important; max-width: 100% !important; height: auto !important; }
+
+                  .prose pre code .hljs-comment, .prose pre code .hljs-quote { color: #5c6370 !important; font-style: italic !important; }
+                  .prose pre code .hljs-doctag, .prose pre code .hljs-keyword, .prose pre code .hljs-formula { color: #c678dd !important; }
+                  .prose pre code .hljs-keyword.type_, .prose pre code .hljs-type { color: #c678dd !important; } 
+                  .prose pre code .hljs-section, .prose pre code .hljs-name, .prose pre code .hljs-selector-tag, .prose pre code .hljs-deletion, .prose pre code .hljs-subst { color: #e06c75 !important; }
+                  .prose pre code .hljs-literal { color: #56b6c2 !important; }
+                  .prose pre code .hljs-string, .prose pre code .hljs-regexp, .prose pre code .hljs-addition, .prose pre code .hljs-attribute, .prose pre code .hljs-meta-string { color: #98c379 !important; }
+                  .prose pre code .hljs-built_in, .prose pre code .hljs-class .hljs-title, .prose pre code .hljs-title.class_ { color: #e6c07b !important; } 
+                  .prose pre code .hljs-attr, .prose pre code .hljs-variable, .prose pre code .hljs-template-variable, .prose pre code .hljs-selector-class, .prose pre code .hljs-selector-attr, .prose pre code .hljs-selector-pseudo, .prose pre code .hljs-number { color: #d19a66 !important; }
+                  .prose pre code .hljs-symbol, .prose pre code .hljs-bullet, .prose pre code .hljs-link, .prose pre code .hljs-meta, .prose pre code .hljs-selector-id, .prose pre code .hljs-title, .prose pre code .hljs-title.function_ { color: #61aeee !important; } 
+
+                  @media (min-width: 768px) {
+                    .prose h1 { font-size: 3rem !important; font-weight: 950 !important; margin-bottom: 2rem !important; margin-top: 3rem !important; line-height: 1.1 !important; }
+                    .prose h2 { font-size: 2.2rem !important; margin-bottom: 1.5rem !important; margin-top: 2rem !important; }
+                    .prose h3 { font-size: 1.5rem !important; margin-bottom: 1rem !important; }
+                    .prose p { font-size: 1.15rem !important; line-height: 1.85 !important; }
+                    
+                    .prose ul, .prose ol { padding-left: 2rem !important; font-size: 1.1rem !important; }
+                    
+                    .prose pre { padding: 1.25rem !important; margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; }
+                    .prose pre code { font-size: 0.9em !important; }
+                    .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
+                    .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
+                  }
+                0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-6xl mx-auto mt-24 md:mt-28 flex flex-col lg:flex-row gap-6 md:gap-8 relative z-10","children":[["$","article",null,{"className":"flex-1 bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl shadow-2xl border border-white/40 dark:border-white/10 overflow-hidden transition-colors duration-700","children":[["$","div",null,{"className":"w-full aspect-video bg-slate-200 dark:bg-slate-700 relative group","children":["$","img",null,{"src":"https://opengraph.githubassets.com/1/fbwe425/blog-cms","alt":"封面","className":"w-full h-full object-cover opacity-90 transition-transform duration-1000 group-hover:scale-105"}]}],["$","div",null,{"className":"p-5 md:p-12 relative","children":[["$","$L4",null,{}],["$","header",null,{"className":"mb-6 md:mb-8 border-b border-slate-300/50 dark:border-slate-700 pb-5 md:pb-6 relative","children":[["$","h1",null,{"className":"text-2xl md:text-4xl font-bold text-slate-900 dark:text-white mb-4 tracking-tight transition-colors duration-700 pr-16 md:pr-24 leading-snug","children":"blog-cms — Hugo + Decap CMS Blog System"}],["$","div",null,{"className":"flex flex-wrap items-center gap-2 md:gap-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 md:gap-2 text-indigo-700 dark:text-indigo-400 font-bold bg-white/30 dark:bg-slate-900/50 px-3 md:px-4 py-1.5 md:py-2 rounded-full w-max text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","svg",null,{"className":"w-3 h-3 md:w-4 md:h-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"}]}],"写作时间：","2026-08-28 10:00:00"]}],[["$","div","Hugo",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","Hugo"]}],["$","div","CMS",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","CMS"]}],["$","div","Cloudflare Pages",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","Cloudflare Pages"]}],["$","div","JavaScript",{"className":"flex items-center gap-1 text-pink-600 dark:text-pink-400 font-bold bg-white/30 dark:bg-slate-900/50 px-2.5 md:px-3 py-1.5 md:py-2 rounded-full text-xs md:text-sm transition-colors duration-700 shadow-sm border border-white/20 dark:border-white/5","children":[["$","span",null,{"className":"text-[10px] md:text-xs opacity-70","children":"#"}]," ","JavaScript"]}]]]}]]}],["$","div",null,{"className":"relative","children":[["$","style",null,{"children":"$5"}],"$L6"]}],"$L7"]}]]}],"$L8"]}]}]]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"--U-XAlkO9CkbpwNOokkc"}
+e:T2f93,<h1>📝 Blog CMS — Hugo + Decap CMS 博客系统</h1>
+<p>一个功能完整的现代博客系统，支持后台管理、多平台部署。</p>
+<h2>✨ 特性</h2>
+<ul>
+<li><strong>📝 后台管理</strong> — Decap CMS 后台直接编写文章、管理页面</li>
+<li><strong>🔐 帐号密码登录</strong> — Cloudflare Pages Functions 认证</li>
+<li><strong>🎨 主题切换</strong> — 亮色 / 暗色 / 自动跟随系统</li>
+<li><strong>🔍 全文搜索</strong> — 内置搜索功能</li>
+<li><strong>📱 响应式设计</strong> — 完美适配所有设备</li>
+<li><strong>🚀 多平台部署</strong> — Cloudflare Pages / Vercel / GitHub Pages</li>
+<li><strong>📁 Markdown 编写</strong> — 简洁高效的内容创作</li>
+<li><strong>🔧 后台配置</strong> — 通过后台修改主题、菜单、网站设置</li>
+</ul>
+<h2>🛠️ 技术栈</h2>
+<table>
+<thead>
+<tr>
+<th>组件</th>
+<th>技术</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>静态站点生成</td>
+<td><a href="https://gohugo.io/">Hugo</a></td>
+</tr>
+<tr>
+<td>后台管理</td>
+<td><a href="https://decapcms.org/">Decap CMS</a></td>
+</tr>
+<tr>
+<td>认证服务</td>
+<td><a href="https://developers.cloudflare.com/pages/functions/">Cloudflare Pages Functions</a></td>
+</tr>
+<tr>
+<td>主题</td>
+<td><a href="https://github.com/adityatelange/hugo-PaperMod/">PaperMod</a></td>
+</tr>
+<tr>
+<td>部署</td>
+<td>Cloudflare Pages / Vercel / GitHub Pages</td>
+</tr>
+</tbody>
+</table>
+<h2>🚀 快速开始</h2>
+<h3>1. 克隆项目</h3>
+<pre><code class="hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/fbwe425/blog-cms.git
+<span class="hljs-built_in">cd</span> blog-cms
+</code></pre>
+<h3>2. 部署到 Cloudflare Pages</h3>
+<ol>
+<li>登录 <a href="https://dash.cloudflare.com">Cloudflare Dashboard</a></li>
+<li>进入 <strong>Workers &#x26; Pages</strong> → <strong>Create</strong> → <strong>Pages</strong> → <strong>Connect to Git</strong></li>
+<li>选择 GitHub → 授权 → 选择 <strong>blog-cms</strong> 仓库</li>
+<li>配置构建：</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>设置项</th>
+<th>值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Branch</td>
+<td><code>main</code></td>
+</tr>
+<tr>
+<td>Build command</td>
+<td><code>hugo --minify</code></td>
+</tr>
+<tr>
+<td>Build output directory</td>
+<td><code>public</code></td>
+</tr>
+</tbody>
+</table>
+<ol start="5">
+<li>
+<p>在 <strong>Settings</strong> → <strong>Functions</strong> 中添加 KV 绑定：</p>
+<ul>
+<li><code>SESSIONS</code> → 选择或创建 KV 命名空间</li>
+<li><code>AUTH_CREDENTIALS</code> → 选择或创建 KV 命名空间</li>
+</ul>
+</li>
+<li>
+<p>点击 <strong>Save and Deploy</strong></p>
+</li>
+</ol>
+<h3>3. 设置管理员帐号</h3>
+<p>在 Cloudflare Dashboard 中：</p>
+<ol>
+<li>进入 <strong>Workers &#x26; Pages</strong> → <strong>你的项目</strong> → <strong>Settings</strong> → <strong>Functions</strong> → <strong>KV namespace bindings</strong></li>
+<li>点击 <strong>Edit variables</strong>，获取 KV 命名空间 ID</li>
+<li>使用 Wrangler CLI 或 API 设置管理员帐号：</li>
+</ol>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># 安装 Wrangler</span>
+npm install -g wrangler
+
+<span class="hljs-comment"># 登录</span>
+wrangler login
+
+<span class="hljs-comment"># 设置管理员帐号</span>
+wrangler kv:key put --binding=AUTH_CREDENTIALS <span class="hljs-string">"admin"</span> <span class="hljs-string">'{"username":"admin","password":"你的密码"}'</span>
+</code></pre>
+<h3>4. 访问后台</h3>
+<ol>
+<li>打开 <code>https://你的站点.pages.dev/admin/</code></li>
+<li>输入管理员帐号和密码</li>
+<li>登录成功后即可使用后台管理</li>
+</ol>
+<h2>📁 项目结构</h2>
+<pre><code class="hljs language-bash">blog-cms/
+├── <span class="hljs-built_in">functions</span>/                 <span class="hljs-comment"># Cloudflare Pages Functions</span>
+│   └── api/
+│       ├── login.js           <span class="hljs-comment"># 登录处理</span>
+│       ├── auth.js            <span class="hljs-comment"># Session 验证</span>
+│       └── logout.js          <span class="hljs-comment"># 登出处理</span>
+├── content/                   <span class="hljs-comment"># 博客内容</span>
+│   ├── posts/                 <span class="hljs-comment"># 博客文章</span>
+│   └── pages/                 <span class="hljs-comment"># 独立页面</span>
+├── static/                    <span class="hljs-comment"># 静态文件</span>
+│   ├── admin/                 <span class="hljs-comment"># Decap CMS 管理面板</span>
+│   │   ├── index.html         <span class="hljs-comment"># CMS 入口（含登录界面）</span>
+│   │   └── config.yml         <span class="hljs-comment"># CMS 配置</span>
+│   └── css/                   <span class="hljs-comment"># 自定义样式</span>
+├── layouts/                   <span class="hljs-comment"># Hugo 布局模板</span>
+├── data/                      <span class="hljs-comment"># 数据文件（主题/导航配置）</span>
+├── archetypes/                <span class="hljs-comment"># 内容原型</span>
+├── hugo.toml                  <span class="hljs-comment"># Hugo 配置</span>
+├── vercel.json                <span class="hljs-comment"># Vercel 部署配置</span>
+├── docs/                      <span class="hljs-comment"># 部署文档</span>
+└── README.md
+</code></pre>
+<h2>📦 其他部署方式</h2>
+<h3>Vercel</h3>
+<ol>
+<li>登录 <a href="https://vercel.com">vercel.com</a></li>
+<li>Import GitHub 仓库</li>
+<li>Framework: Hugo</li>
+<li>Build command: <code>hugo --minify</code></li>
+<li>Output: <code>public</code></li>
+</ol>
+<h3>GitHub Pages</h3>
+<p>项目已包含 GitHub Actions 配置（<code>.github/workflows/deploy-github-pages.yml</code>）：</p>
+<ol>
+<li>进入仓库 Settings → Pages</li>
+<li>Source 选择 <strong>GitHub Actions</strong></li>
+<li>推送到 <code>main</code> 分支自动部署</li>
+</ol>
+<h2>🎨 后台功能</h2>
+<h3>写文章</h3>
+<ol>
+<li>访问 <code>/admin/</code>，输入帐号密码登录</li>
+<li>点击 <strong>📝 文章管理</strong></li>
+<li>点击 <strong>New posts</strong></li>
+<li>使用 Markdown 编辑器编写内容</li>
+<li>保存为草稿或直接发布</li>
+</ol>
+<p>支持的功能：</p>
+<ul>
+<li>Markdown 实时预览</li>
+<li>图片上传和管理</li>
+<li>标签和分类</li>
+<li>封面图设置</li>
+<li>文章目录</li>
+</ul>
+<h3>管理页面</h3>
+<ol>
+<li>在后台选择 <strong>📄 页面管理</strong></li>
+<li>创建新页面（关于、联系等）</li>
+<li>自定义 URL 路径</li>
+</ol>
+<h3>修改主题和网站设置</h3>
+<p>在后台选择 <strong>⚙️ 网站设置</strong>：</p>
+<table>
+<thead>
+<tr>
+<th>设置</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>基本设置</strong></td>
+<td>网站标题、描述</td>
+</tr>
+<tr>
+<td><strong>🎨 主题设置</strong></td>
+<td>亮色/暗色、显示选项、首页信息</td>
+</tr>
+<tr>
+<td><strong>🔗 导航菜单</strong></td>
+<td>添加、删除、排序菜单项</td>
+</tr>
+</tbody>
+</table>
+<h3>管理员帐号管理</h3>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># 修改密码</span>
+wrangler kv:key put --binding=AUTH_CREDENTIALS <span class="hljs-string">"admin"</span> <span class="hljs-string">'{"username":"新帐号","password":"新密码"}'</span>
+
+<span class="hljs-comment"># 添加用户</span>
+wrangler kv:key put --binding=AUTH_CREDENTIALS <span class="hljs-string">"user2"</span> <span class="hljs-string">'{"username":"user2","password":"密码2"}'</span>
+
+<span class="hljs-comment"># 删除用户</span>
+wrangler kv:key delete --binding=AUTH_CREDENTIALS <span class="hljs-string">"user2"</span>
+
+<span class="hljs-comment"># 查看所有用户</span>
+wrangler kv:key list --binding=AUTH_CREDENTIALS
+</code></pre>
+<h2>🔧 本地开发</h2>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># 安装 Hugo（如果没有）</span>
+brew install hugo  <span class="hljs-comment"># macOS</span>
+<span class="hljs-comment"># 或</span>
+<span class="hljs-built_in">sudo</span> apt install hugo  <span class="hljs-comment"># Linux</span>
+
+<span class="hljs-comment"># 启动开发服务器（包含草稿）</span>
+hugo server -D
+
+<span class="hljs-comment"># 浏览器打开 http://localhost:1313</span>
+</code></pre>
+<h3>常用命令</h3>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># 构建生产版本</span>
+hugo --minify
+
+<span class="hljs-comment"># 创建新文章</span>
+hugo new content posts/my-new-post.md
+
+<span class="hljs-comment"># 更新主题</span>
+hugo mod get -u
+
+<span class="hljs-comment"># 清理构建产物</span>
+<span class="hljs-built_in">rm</span> -rf public resources/_gen
+</code></pre>
+<h2>📝 Markdown 写作</h2>
+<h3>Front Matter 示例</h3>
+<pre><code class="hljs language-yaml"><span class="hljs-meta">---</span>
+<span class="hljs-attr">title:</span> <span class="hljs-string">"文章标题"</span>
+<span class="hljs-attr">date:</span> <span class="hljs-number">2024-12-22T14:30:00+08:00</span>
+<span class="hljs-attr">draft:</span> <span class="hljs-literal">false</span>
+<span class="hljs-attr">description:</span> <span class="hljs-string">"文章描述"</span>
+<span class="hljs-attr">tags:</span> [<span class="hljs-string">"标签1"</span>, <span class="hljs-string">"标签2"</span>]
+<span class="hljs-attr">categories:</span> [<span class="hljs-string">"技术"</span>]
+<span class="hljs-attr">cover:</span>
+  <span class="hljs-attr">image:</span> <span class="hljs-string">""</span>
+  <span class="hljs-attr">alt:</span> <span class="hljs-string">""</span>
+  <span class="hljs-attr">hidden:</span> <span class="hljs-literal">false</span>
+<span class="hljs-meta">---
+</span></code></pre>
+<h3>支持的语法</h3>
+<ul>
+<li><strong>粗体</strong>：<code>**粗体**</code></li>
+<li><em>斜体</em>：<code>*斜体*</code></li>
+<li><code>代码</code>：<code>`代码`</code></li>
+<li><a href="https://example.com">链接</a>：<code>[链接](https://example.com)</code></li>
+<li>图片：<code>![alt](/images/xxx.jpg)</code></li>
+<li>代码块：使用三个反引号</li>
+<li>表格：使用 Markdown 表格语法</li>
+<li>引用：使用 <code>></code> 前缀</li>
+</ul>
+<h2>❓ 常见问题</h2>
+<h3>Q: 后台登录失败怎么办？</h3>
+<ol>
+<li>检查 Cloudflare Pages Functions 是否正常运行</li>
+<li>检查 KV 绑定是否正确配置</li>
+<li>检查管理员帐号密码是否正确</li>
+</ol>
+<h3>Q: 如何修改密码？</h3>
+<pre><code class="hljs language-bash">wrangler kv:key put --binding=AUTH_CREDENTIALS <span class="hljs-string">"admin"</span> <span class="hljs-string">'{"username":"帐号","password":"新密码"}'</span>
+</code></pre>
+<h3>Q: 图片存储在哪里？</h3>
+<p>默认存储在 <code>static/images/uploads/</code> 目录，通过 Decap CMS 上传。</p>
+<h3>Q: 如何添加新的分类？</h3>
+<p>在后台 <strong>📝 文章管理</strong> 中，点击分类下拉框的 <strong>Add</strong> 按钮。</p>
+<h3>Q: 本地开发时怎么用后台？</h3>
+<p>本地开发时 Functions 无法使用。你可以临时修改 <code>config.yml</code> 使用 GitHub OAuth。</p>
+<h2>🏗️ 架构说明</h2>
+<pre><code class="hljs">用户浏览器
+    ↓
+Cloudflare Pages（静态博客 + Functions）
+    ↓ 登录验证
+Cloudflare KV（存储帐号密码和 Session）
+    ↓ 编辑内容
+Decap CMS（后台管理）
+    ↓ 写入内容
+GitHub 仓库（存储 Markdown 文件）
+    ↓ 触发构建
+Cloudflare Pages（自动部署）
+</code></pre>
+<h2>📄 许可证</h2>
+<p>MIT License</p>
+<h2>🙏 致谢</h2>
+<ul>
+<li><a href="https://gohugo.io/">Hugo</a> — 静态站点生成器</li>
+<li><a href="https://decapcms.org/">Decap CMS</a> — 开源内容管理系统</li>
+<li><a href="https://github.com/adityatelange/hugo-PaperMod/">PaperMod</a> — 优秀的 Hugo 主题</li>
+<li><a href="https://www.cloudflare.com/">Cloudflare</a> — 免费的 CDN、Pages 和 Functions</li>
+</ul>6:["$","div",null,{"id":"article-content","className":"prose prose-slate dark:prose-invert prose-base md:prose-lg max-w-none text-slate-800 dark:text-slate-200 transition-colors duration-700 scroll-smooth","dangerouslySetInnerHTML":{"__html":"$e"}}]
+7:["$","div",null,{"className":"mt-12 md:mt-16","children":["$","$Lf",null,{}]}]
+8:["$","aside",null,{"className":"w-full lg:w-[320px] flex flex-col gap-6 flex-shrink-0","children":[["$","div",null,{"className":"bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl p-6 border border-white/40 dark:border-white/10 shadow-xl text-center","children":[["$","div",null,{"className":"w-20 h-20 mx-auto rounded-full p-1 bg-gradient-to-tr from-indigo-500 to-purple-500 shadow-md mb-4 transition-transform duration-500 hover:rotate-3","children":["$","img",null,{"src":"https://avatars.githubusercontent.com/u/321728159?v=4","alt":"avatar","className":"w-full h-full rounded-full object-cover bg-white"}]}],["$","h3",null,{"className":"text-xl font-bold text-slate-900 dark:text-white mb-2","children":"F. B. Weber"}],["$","p",null,{"className":"text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-medium mb-4","children":"Independent developer · Serverless enthusiast · Building with Cloudflare Workers, Vercel & free stacks"}],["$","$L10",null,{}]]}],["$","$L11",null,{}],["$","div",null,{"className":"bg-white/60 dark:bg-slate-800/50 backdrop-blur-xl rounded-3xl p-6 border border-white/40 dark:border-white/10 shadow-xl","children":[["$","h3",null,{"className":"font-black text-slate-900 dark:text-white mb-4 border-l-4 border-indigo-500 pl-2 text-sm","children":"RECOMMENDED"}],["$","div",null,{"className":"space-y-4","children":[["$","$L12","auexue",{"href":"/posts/auexue","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"AueXUE — Dynamic Blog on Cloudflare"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-27 15:00:00"}]]}],["$","$L12","github-profile",{"href":"/posts/github-profile","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"GitHub Profile README"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-28 08:00:00"}]]}],["$","$L12","homepage",{"href":"/posts/homepage","className":"group block","children":[["$","h4",null,{"className":"text-sm font-bold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-1","children":"fbwe425.github.io — Personal Developer Homepage"}],["$","p",null,{"className":"text-[10px] text-slate-400 dark:text-slate-500 mt-1 font-bold uppercase","children":"2026-08-31 09:00:00"}]]}]]}]]}],["$","$L13",null,{"toc":[{"level":1,"text":"📝 Blog CMS — Hugo + Decap CMS 博客系统","id":"📝-blog-cms-—-hugo-+-decap-cms-博客系统"},{"level":2,"text":"✨ 特性","id":"✨-特性"},{"level":2,"text":"🛠️ 技术栈","id":"🛠️-技术栈"},{"level":2,"text":"🚀 快速开始","id":"🚀-快速开始"},{"level":3,"text":"1. 克隆项目","id":"1.-克隆项目"},{"level":3,"text":"2. 部署到 Cloudflare Pages","id":"2.-部署到-cloudflare-pages"},{"level":3,"text":"3. 设置管理员帐号","id":"3.-设置管理员帐号"},{"level":1,"text":"安装 Wrangler","id":"安装-wrangler"},{"level":1,"text":"登录","id":"登录"},{"level":1,"text":"设置管理员帐号","id":"设置管理员帐号"},{"level":3,"text":"4. 访问后台","id":"4.-访问后台"},{"level":2,"text":"📁 项目结构","id":"📁-项目结构"},{"level":2,"text":"📦 其他部署方式","id":"📦-其他部署方式"},{"level":3,"text":"Vercel","id":"vercel"},{"level":3,"text":"GitHub Pages","id":"github-pages"},{"level":2,"text":"🎨 后台功能","id":"🎨-后台功能"},{"level":3,"text":"写文章","id":"写文章"},{"level":3,"text":"管理页面","id":"管理页面"},{"level":3,"text":"修改主题和网站设置","id":"修改主题和网站设置"},{"level":3,"text":"管理员帐号管理","id":"管理员帐号管理"},{"level":1,"text":"修改密码","id":"修改密码"},{"level":1,"text":"添加用户","id":"添加用户"},{"level":1,"text":"删除用户","id":"删除用户"},{"level":1,"text":"查看所有用户","id":"查看所有用户"},{"level":2,"text":"🔧 本地开发","id":"🔧-本地开发"},{"level":1,"text":"安装 Hugo（如果没有）","id":"安装-hugo（如果没有）"},{"level":1,"text":"或","id":"或"},{"level":1,"text":"启动开发服务器（包含草稿）","id":"启动开发服务器（包含草稿）"},{"level":1,"text":"浏览器打开 http://localhost:1313","id":"浏览器打开-http://localhost:1313"},{"level":3,"text":"常用命令","id":"常用命令"},{"level":1,"text":"构建生产版本","id":"构建生产版本"},{"level":1,"text":"创建新文章","id":"创建新文章"},{"level":1,"text":"更新主题","id":"更新主题"},{"level":1,"text":"清理构建产物","id":"清理构建产物"},{"level":2,"text":"📝 Markdown 写作","id":"📝-markdown-写作"},{"level":3,"text":"Front Matter 示例","id":"front-matter-示例"},{"level":3,"text":"支持的语法","id":"支持的语法"},{"level":2,"text":"❓ 常见问题","id":"❓-常见问题"},{"level":3,"text":"Q: 后台登录失败怎么办？","id":"q:-后台登录失败怎么办？"},{"level":3,"text":"Q: 如何修改密码？","id":"q:-如何修改密码？"},{"level":3,"text":"Q: 图片存储在哪里？","id":"q:-图片存储在哪里？"},{"level":3,"text":"Q: 如何添加新的分类？","id":"q:-如何添加新的分类？"},{"level":3,"text":"Q: 本地开发时怎么用后台？","id":"q:-本地开发时怎么用后台？"},{"level":2,"text":"🏗️ 架构说明","id":"🏗️-架构说明"},{"level":2,"text":"📄 许可证","id":"📄-许可证"},{"level":2,"text":"🙏 致谢","id":"🙏-致谢"}]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15cahw4d8-wp1.css","precedence":"next"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0f11whapg2-z8.js","async":true}]
+c:["$","script","script-1",{"src":"/_next/static/chunks/0iwhyxshj2rrg.js","async":true}]
+d:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null
