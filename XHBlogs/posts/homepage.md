@@ -1,106 +1,57 @@
 ---
-title: "fbwe425.github.io — Personal Developer Homepage"
+title: "fbwe425.github.io — 个人开发者主页"
 date: "2026-08-31 09:00:00"
-description: "Personal portfolio site with animated starfield background. Zero frameworks — just HTML, CSS, JavaScript."
+description: "我的个人开发者主页：轻量、快速，并使用 GitHub Pages 免费部署。"
 cover: "https://opengraph.githubassets.com/1/fbwe425/fbwe425.github.io"
-tags: ["HTML", "CSS", "GitHub Pages", "Portfolio"]
+tags: ["HTML", "CSS", "GitHub Pages", "个人主页"]
 ---
 
 # 🚀 fbwe425.github.io
 
-> ☁️ Personal homepage — **serverless developer portfolio**
+☁️ **个人主页 · 无服务器开发者作品集**
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0e1a)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0e1a)](https://fbwe425.github.io/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
-My personal portfolio site, built with **zero frameworks** — just clean HTML, CSS and a sprinkle of JavaScript. Deployed on **GitHub Pages** for free. ⚡
+这是我的个人开发者主页，不依赖任何前端框架，使用简洁的 HTML、CSS 和少量 JavaScript 构建，并通过 GitHub Pages 免费部署。
 
-**🔗 Live: https://fbwe425.github.io/**
-
----
-
-## ✨ Features
-
-- 🌌 **Animated starfield** background (pure Canvas, no dependencies)
-- 🎨 **Dark theme** with Cloudflare-orange & edge-computing-teal accents
-- 📱 **Fully responsive** — works great on mobile, tablet and desktop
-- 🧭 **Smooth-scroll** single-page navigation
-- 🛠️ **Tech-stack showcase** — Cloudflare Workers, R2, Vercel, Hono, Next.js, Astro, Vue.js, Hugo, D1/KV, Upstash, Neon, TypeScript, Rust
-- 💬 **Contact section** — GitHub / Twitter / Email, one click away
-- 🌐 **Bilingual** — EN / 中文 toggle with localStorage persistence
-- 🚀 **Deploys itself** — push to `main` and GitHub Pages rebuilds automatically
+🔗 **在线地址：** <https://fbwe425.github.io/>
 
 ---
 
-## 📂 Featured Projects
+## ✨ 页面特点
 
-This site showcases my serverless-focused projects:
+- 🌌 动态星空背景，使用原生 Canvas 实现，无额外依赖
+- 🎨 深色主题，搭配 Cloudflare 橙色与边缘计算青色点缀
+- 📱 完整响应式布局，适配手机、平板和桌面端
+- 🧭 流畅的单页滚动导航
+- 🛠️ 展示 Cloudflare Workers、R2、Vercel、Hono、Next.js、Astro、Vue.js、Hugo、D1/KV、Upstash、Neon、TypeScript 和 Rust 等技术
+- 💬 提供 GitHub、Twitter 和邮箱联系方式
+- 🌐 支持中英文切换，并使用 localStorage 保存语言选择
+- 🚀 推送到 main 分支后自动通过 GitHub Actions 构建和发布
 
-| Project | Description |
-|---------|-------------|
-| **[blog-cms](https://github.com/fbwe425/blog-cms)** | Hugo + Decap CMS blog with admin dashboard, dark/light theme, full-text search |
-| **[AueXUE](https://github.com/fbwe425/AueXUE)** | Dynamic blog on Cloudflare R2 + D1 with Obsidian plugin |
+## 🧰 技术栈
 
----
+- HTML5
+- CSS3
+- 原生 JavaScript
+- Canvas API
+- GitHub Pages
+- GitHub Actions
 
-## 🗂️ Project structure
+## 📂 本项目中的其他项目
 
-```
-fbwe425.github.io/
-├── index.html   # The entire site — content + styles + animation
-├── README.md    # You are here
-└── LICENSE      # MIT License
-```
+- [blog-cms](https://github.com/fbwe425/blog-cms) —— Hugo 与 Decap CMS 博客系统
+- [AueXUE](https://github.com/fbwe425/AueXUE) —— 基于 Cloudflare 的动态博客
+- [fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io) —— 当前个人博客主页
 
-The whole site lives in a single `index.html` file (styles are embedded via `<style>`, the starfield via inline `<script>`). That's the beauty of it — **no build step, no dependencies, no node_modules**. 🙌
+## 📮 联系方式
 
----
+- GitHub：<https://github.com/fbwe425>
+- 邮箱：<fbwe425@fnosmail.com>
 
-## 🛠️ How to run locally
+## 📄 许可证
 
-```bash
-# Option 1: Python
-python3 -m http.server 8000
-# → open http://localhost:8000
-
-# Option 2: Node.js
-npx serve .
-```
-
-Or just double-click `index.html` — it's fully static, no server needed.
-
----
-
-## ✏️ Customize it
-
-| What you want to change | Where |
-|------------------------|-------|
-| **Your name / title** | `index.html` — `<h1>` in the hero section |
-| **Bio / subtitle** | `index.html` — `.subtitle` |
-| **Tech stack items** | `index.html` — `.stack-grid` block |
-| **Projects section** | `index.html` — `#projects` section |
-| **Colors** | `index.html` — CSS variables in `:root` (`--accent`, `--accent2`, ...) |
-| **Contact links** | `index.html` — `#contact` section |
-| **Starfield density** | `index.html` — `length: 160` in the script |
-
-After editing, commit & push to `main` — GitHub Pages picks it up automatically.
-
----
-
-## 🌐 Deployment
-
-This repo is served via [GitHub Pages](https://pages.github.com/) from the `main` branch at the repo root.
-
-Since the repo is named `fbwe425.github.io`, the site is automatically available at **https://fbwe425.github.io/** — no extra configuration needed.
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — use it, tweak it, make it yours. 🎉
-
----
-
-*Built with ❤️ and the Cloudflare ☁️ spirit — "The best server is the one you never have to manage."*
+本项目使用仓库中的 [LICENSE](https://github.com/fbwe425/fbwe425.github.io/blob/main/LICENSE) 文件所声明的许可证。
