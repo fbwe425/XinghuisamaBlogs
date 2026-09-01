@@ -33,7 +33,7 @@ export default function ProjectsBoard() {
             Projects Matrix
           </h1>
           <p className="text-slate-600 dark:text-slate-400 font-serif">
-            开源项目、科研代码与实验室折腾记录。
+            Open source projects & code repositories.
           </p>
         </div>
       </div>
@@ -111,7 +111,7 @@ export default function ProjectsBoard() {
             animate={{ opacity: 1 }}
             className="col-span-full text-center py-20 text-slate-500 font-serif w-full"
           >
-            云端尚未建立代号为 [{searchQuery}] 的档案...
+            No project found matching [{searchQuery}] ...
           </motion.div>
         )}
       </motion.div>
