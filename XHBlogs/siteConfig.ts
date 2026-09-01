@@ -2,16 +2,16 @@
 
 export const siteConfig = {
   // 1. 网站标题与博主信息
-  title: "F. B. Weber's Dev Space",
+  title: "F. B. Weber 的开发空间",
   faviconUrl: "https://avatars.githubusercontent.com/u/321728159?v=4",
   authorName: "F. B. Weber",
-  bio: "Independent developer · Serverless enthusiast · Building with Cloudflare Workers, Vercel & free stacks",
+  bio: "独立开发者 · 无服务器技术爱好者 · 使用 Cloudflare Workers、Vercel 和免费技术栈构建项目",
 
   navTitle: "F. B. Weber",
 
-  navSuffix: "'s",
+  navSuffix: "的",
 
-  navAfter: "Dev Space",
+  navAfter: "开发空间",
 
   // 2. 头像设置
   avatarUrl: "https://avatars.githubusercontent.com/u/321728159?v=4",
@@ -38,10 +38,10 @@ export const siteConfig = {
   counts: {
     photos: 0,
   },
-  chatterTitle: "Dev Notes",
-  chatterDescription: "Thoughts on serverless, Cloudflare Workers, Vercel & the free stack",
+  chatterTitle: "开发笔记",
+  chatterDescription: "记录无服务器技术、Cloudflare Workers、Vercel 与免费技术栈的开发思考",
 
-  danmakuList: ["Serverless is the future!", "Cloudflare Workers FTW", "Deploy to the edge!", "Free stack gang 🚀", "Building in public", "Ship it!", "Zero cold starts", "Just use Vercel"],
+  danmakuList: ["无服务器技术就是未来！", "Cloudflare Workers 真香", "部署到边缘节点！", "免费技术栈爱好者 🚀", "公开构建中", "发布它！", "零冷启动", "直接使用 Vercel"],
   gitalkConfig: {
     clientID: "",
     clientSecret: "",
@@ -57,10 +57,10 @@ export const siteConfig = {
   },
   geminiConfig: {
     modelId: "gemini-2.5-flash-lite",
-    systemPrompt: "You are a helpful developer assistant. Answer questions about serverless development, Cloudflare Workers, Vercel, and modern web development concisely.",
+    systemPrompt: "你是一名友好的开发助手，请用中文简洁回答无服务器开发、Cloudflare Workers、Vercel 和现代 Web 开发相关问题。",
     maxOutputTokens: 150,
     temperature: 0.7,
   },
-  friendLinkApplyFormat: "Name: F. B. Weber's Dev Space\nIntro: Serverless · Edge computing · Free stacks\nLink: https://fbwe425.github.io/XinghuisamaBlogs/\nAvatar: https://avatars.githubusercontent.com/u/321728159?v=4",
+  friendLinkApplyFormat: "名称：F. B. Weber 的开发空间\n介绍：无服务器 · 边缘计算 · 免费技术栈\n链接：https://fbwe425.github.io/\n头像： https://avatars.githubusercontent.com/u/321728159?v=4",
   enableLevelSystem: false,
 };
