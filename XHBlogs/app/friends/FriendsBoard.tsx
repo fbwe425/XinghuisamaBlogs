@@ -44,7 +44,7 @@ export default function FriendsBoard() {
         </div>
         <div className="text-center md:text-left w-full px-2 md:px-0">
           <h1 className="text-2xl md:text-4xl font-black text-slate-900 dark:text-white mb-2 md:mb-4 tracking-widest drop-shadow-sm uppercase">
-            Developer Links
+            开发者链接
           </h1>
           <p className="text-xs md:text-base text-slate-600 dark:text-slate-400 font-serif">
             Useful links and developer resources.
