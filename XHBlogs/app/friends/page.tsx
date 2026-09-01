@@ -5,7 +5,7 @@ import {siteConfig} from "@/siteConfig";
 
 export const metadata = {
   title: "友链 | " + siteConfig.title,
-  description: "Developer connections and useful resources",
+  description: "开发者链接与实用资源",
 };
 
 export default function FriendsPage() {
