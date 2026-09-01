@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: 关于我
 date: '2026-08-27'
 tags: []
 mood: ''
@@ -7,28 +7,28 @@ cover: https://avatars.githubusercontent.com/u/321728159?v=4
 description: ''
 ---
 
-Hi there 👋 I'm F. B. Weber
+你好，我是 F. B. Weber 👋
 
-> ☁️ Independent developer · **Serverless enthusiast** · Free-stack builder
+> ☁️ 独立开发者 · **无服务器技术爱好者** · 免费技术栈实践者
 
-I build things that run on the edge — no servers to babysit, no bills to stress about. Just code, deploy, and scale to zero. ⚡
+我专注于构建运行在边缘节点上的应用：无需维护服务器，无需承担高昂账单，只需编写代码、部署并按需扩展。⚡
 
-**🛠️ What I work with**
+**🛠️ 我常用的技术**
 
-| Category | Tools |
-|----------|-------|
-| ☁️ Serverless | Cloudflare Workers, Vercel Edge Functions, Deno Deploy |
-| 🖥️ Frameworks | Hono, Next.js, Astro, Remix, Vue.js, Hugo |
-| 🗄️ Data | D1, KV, R2 Storage, Upstash, Turso, Neon |
-| ⚡ Language | TypeScript (and a bit of Rust) |
-| 🚀 Deploy | Cloudflare Pages, Vercel, GitHub Pages, GitHub Actions |
+| 分类 | 技术 |
+|---|---|
+| ☁️ 无服务器 | Cloudflare Workers、Vercel Edge Functions、Deno Deploy |
+| 🖥️ 框架 | Hono、Next.js、Astro、Remix、Vue.js、Hugo |
+| 🗄️ 数据 | D1、KV、R2 Storage、Upstash、Turso、Neon |
+| ⚡ 语言 | TypeScript（以及少量 Rust） |
+| 🚀 部署 | Cloudflare Pages、Vercel、GitHub Pages、GitHub Actions |
 
-**📂 Projects**
+**📂 我的项目**
 
-- **[blog-cms](https://github.com/fbwe425/blog-cms)** — Hugo + Decap CMS blog system with admin dashboard
-- **[AueXUE](https://github.com/fbwe425/AueXUE)** — Dynamic blog powered entirely by Cloudflare
-- **[fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io)** — Personal homepage with animated starfield
+- **[blog-cms](https://github.com/fbwe425/blog-cms)** —— 带管理面板的 Hugo + Decap CMS 博客系统
+- **[AueXUE](https://github.com/fbwe425/AueXUE)** —— 完全运行在 Cloudflare 上的动态博客
+- **[fbwe425.github.io](https://github.com/fbwe425/fbwe425.github.io)** —— 当前个人博客主页
 
-**📍 Location:** Shanghai, China
+**📍 所在地：** 中国上海
 
-**📧 Contact:** fbwe425@fnosmail.com
+**📧 联系方式：** fbwe425@fnosmail.com
