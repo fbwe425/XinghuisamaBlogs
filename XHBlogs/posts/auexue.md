@@ -1,7 +1,7 @@
 ---
-title: "AueXUE — Dynamic Blog on Cloudflare"
+title: "AueXUE — 基于 Cloudflare 的动态博客"
 date: "2026-08-27 15:00:00"
-description: "A fully dynamic blog built entirely on Cloudflare — Workers, D1 database, R2 storage. With Obsidian plugin support."
+description: "完全基于 Cloudflare 构建的动态博客，使用 Workers、D1 数据库和 R2 存储，并支持 Obsidian 插件。"
 cover: "https://opengraph.githubassets.com/1/fbwe425/AueXUE"
 tags: ["Vue", "Cloudflare Workers", "D1", "R2"]
 ---

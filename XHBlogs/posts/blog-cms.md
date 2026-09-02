@@ -1,7 +1,7 @@
 ---
-title: "blog-cms — Hugo + Decap CMS Blog System"
+title: "blog-cms — Hugo + Decap CMS 博客系统"
 date: "2026-08-28 10:00:00"
-description: "A static blog CMS with admin dashboard, deployable to Cloudflare Pages, Vercel or GitHub Pages."
+description: "带有管理后台的静态博客 CMS，可部署到 Cloudflare Pages、Vercel 或 GitHub Pages。"
 cover: "https://opengraph.githubassets.com/1/fbwe425/blog-cms"
 tags: ["Hugo", "CMS", "Cloudflare Pages", "JavaScript"]
 ---

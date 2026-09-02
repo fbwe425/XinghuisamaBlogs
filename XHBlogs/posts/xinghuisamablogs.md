@@ -1,7 +1,7 @@
 ---
-title: "XinghuisamaBlogs — Glassmorphism Next.js Blog"
+title: "XinghuisamaBlogs — 毛玻璃风格 Next.js 博客"
 date: "2026-08-31 12:00:00"
-description: "A Next.js 16 glassmorphism blog, forked and customized. Deployed to GitHub Pages via GitHub Actions."
+description: "采用 Next.js 16 构建的毛玻璃风格博客，经过定制后通过 GitHub Actions 部署到 GitHub Pages。"
 cover: "https://opengraph.githubassets.com/1/fbwe425/XinghuisamaBlogs"
 tags: ["Next.js", "TypeScript", "GitHub Pages", "GitHub Actions"]
 ---
