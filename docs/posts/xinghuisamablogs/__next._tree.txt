@@ -9,4 +9,4 @@
 :HL["/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
 :HL["https://opengraph.githubassets.com/1/fbwe425/XinghuisamaBlogs","image"]
 :HL["https://avatars.githubusercontent.com/u/321728159?v=4","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"xinghuisamablogs","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"f8N0Krz-hlkRz9QkDEyGx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"xinghuisamablogs","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"E67EYklFsGgNx8VCmO2MB"}
