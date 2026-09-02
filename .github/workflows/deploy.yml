@@ -9,8 +9,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
@@ -28,6 +26,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -45,20 +44,15 @@ jobs:
             output: 'export',
             basePath: '',
             trailingSlash: true,
-            images: {
-              unoptimized: true,
-            },
-            typescript: {
-              ignoreBuildErrors: true,
-            },
+            images: { unoptimized: true },
+            typescript: { ignoreBuildErrors: true },
           };
 
           export default nextConfig;
           CONF
 
       - name: Remove server-side API routes for static export
-        run: |
-          rm -rf app/api
+        run: rm -rf app/api
 
       - name: Install dependencies
         run: npm ci
@@ -68,21 +62,14 @@ jobs:
         env:
           NEXT_TELEMETRY_DISABLED: '1'
 
-      - name: Add .nojekyll
-        run: touch out/.nojekyll
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./XHBlogs/out
-
-  deploy:
-    needs: build-and-deploy
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish build to docs
+        run: |
+          touch out/.nojekyll
+          rm -rf ../docs
+          cp -a out ../docs
+          cd ..
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs
+          git diff --cached --quiet || git commit -m 'chore: deploy to GitHub Pages [skip ci]'
+          git push origin HEAD:main
