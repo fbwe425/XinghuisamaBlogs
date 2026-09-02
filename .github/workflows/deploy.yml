@@ -5,10 +5,10 @@ on:
     branches: [main]
     paths:
       - 'XHBlogs/**'
-  workflow_dispatch:          # 允许手动触发
+  workflow_dispatch:
 
 permissions:
-  contents: write             # 写 gh-pages 分支
+  contents: write
   pages: write
   id-token: write
 
@@ -24,13 +24,11 @@ jobs:
         working-directory: XHBlogs
 
     steps:
-      # ── 1. 拉取代码 ──────────────────────────────────────────
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # ── 2. 安装 Node.js ──────────────────────────────────────
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -38,10 +36,6 @@ jobs:
           cache: 'npm'
           cache-dependency-path: XHBlogs/package-lock.json
 
-      # ── 3. 覆写 next.config.ts 为静态导出模式 ───────────────
-      #    · output: 'export'  → 纯静态 HTML/CSS/JS
-      #    · basePath          → GitHub Pages 子路径（仓库名）
-      #    · API routes 在静态模式下不可用，构建前会删除它们
       - name: Patch next.config.ts for static export
         run: |
           cat > next.config.ts << 'CONF'
@@ -62,36 +56,33 @@ jobs:
           export default nextConfig;
           CONF
 
-      # ── 4. 移除 API routes（静态导出不支持运行时 API）───────
-      #    这些 API 依赖服务端环境（Gemini/天气/OAuth/网易云）
-      #    在 GitHub Pages 纯静态环境下本来就无法运行
       - name: Remove server-side API routes for static export
         run: |
           rm -rf app/api
 
-      # ── 5. 安装依赖 ──────────────────────────────────────────
       - name: Install dependencies
         run: npm ci
 
-      # ── 6. 构建静态站点 ──────────────────────────────────────
       - name: Build
         run: npm run build
         env:
           NEXT_TELEMETRY_DISABLED: '1'
 
-      # ── 7. 添加 .nojekyll（防止 Jekyll 处理 _next 目录）─────
       - name: Add .nojekyll
         run: touch out/.nojekyll
 
-      # ── 8. 部署到 gh-pages 分支 ──────────────────────────────
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./XHBlogs/out
-          publish_branch: main
-          destination_dir: docs
-          force_orphan: false
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'chore: deploy to GitHub Pages [skip ci]'
+          path: ./XHBlogs/out
+
+  deploy:
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
